@@ -1,0 +1,9 @@
+Bibliotecas de terceros incluidas en este sitio (copias locales, sin depender de internet):
+
+- marked 18.1.2 (convierte Markdown a HTML)
+  Licencia MIT. Copyright (c) 2018-2026 MarkedJS; (c) 2011-2018 Christopher Jeffrey.
+  https://github.com/markedjs/marked
+
+- DOMPurify 3.4.17 (limpia el HTML generado para evitar codigo malicioso)
+  Licencia Apache-2.0 o MPL-2.0 (a eleccion). Copyright (c) Cure53 y colaboradores.
+  https://github.com/cure53/DOMPurify

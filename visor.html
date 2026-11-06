@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es-BO">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Leer estudio en línea | Estudios Bíblicos RVR1960</title>
+<meta name="robots" content="noindex">
+<link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+
+<div id="cabecera"></div>
+<div class="progreso-lectura" aria-hidden="true"><div id="barra-progreso"></div></div>
+
+<section class="seccion-clara visor-seccion">
+  <div class="contenedor">
+    <p class="visor-migas"><a id="enlace-volver" href="estudios.html">&larr; Volver al catálogo de estudios</a></p>
+
+    <header class="visor-encabezado">
+      <span class="eyebrow" id="visor-categoria"></span>
+      <p class="visor-titulo" id="titulo-estudio">Cargando estudio…</p>
+      <p class="visor-meta" id="visor-meta"></p>
+    </header>
+
+    <div class="visor-herramientas" role="toolbar" aria-label="Herramientas de lectura">
+      <button type="button" class="herr-btn" id="btn-menos" aria-label="Reducir el tamaño de la letra">A&minus;</button>
+      <button type="button" class="herr-btn" id="btn-mas" aria-label="Aumentar el tamaño de la letra">A+</button>
+      <button type="button" class="herr-btn" id="btn-imprimir">Imprimir</button>
+      <a class="herr-btn" id="enlace-descarga" href="#" download>Descargar (.md)</a>
+    </div>
+
+    <div class="visor-layout">
+      <nav class="visor-toc" id="visor-toc" aria-label="Contenido del estudio" hidden>
+        <details id="toc-detalles">
+          <summary>Contenido del estudio</summary>
+          <ol id="toc-lista"></ol>
+        </details>
+      </nav>
+      <article class="lectura" id="lectura" aria-live="polite" aria-busy="true">
+        <p class="nota-formulario">Cargando el estudio…</p>
+      </article>
+    </div>
+
+    <nav class="visor-nav" id="visor-nav" aria-label="Estudio anterior y siguiente" hidden></nav>
+  </div>
+</section>
+
+<div id="pie"></div>
+
+<script src="js/vendor/marked.umd.js"></script>
+<script src="js/vendor/purify.min.js"></script>
+<script src="js/config.js"></script>
+<script src="js/catalogo.js"></script>
+<script src="js/componentes.js"></script>
+<script src="js/main.js"></script>
+<script src="js/visor.js"></script>
+</body>
+</html>

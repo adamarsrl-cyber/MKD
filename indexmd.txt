@@ -1,0 +1,1725 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 9E99-4EAA
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\ayudas-especiales
+
+02/11/2026  00:52            29,497 encontrarayudabiblico-01-vf.md
+02/11/2026  00:52            37,685 encontrarayudabiblico-02-vf.md
+02/11/2026  00:52            37,073 encontrarayudabiblico-03-vf.md
+02/11/2026  00:52            32,701 encontrarayudabiblico-04-vf.md
+02/11/2026  00:52            35,248 encontrarayudabiblico-05-vf.md
+02/11/2026  00:52            31,600 encontrarayudabiblico-06-vf.md
+02/11/2026  00:52            30,864 encontrarayudabiblico-07-vf.md
+02/11/2026  00:52            31,905 encontrarayudabiblico-08-vf.md
+02/11/2026  00:52            33,672 encontrarayudabiblico-09-vf.md
+02/11/2026  00:52            38,171 encontrarayudabiblico-10-vf.md
+02/11/2026  00:52            39,490 encontrarayudabiblico-11-vf.md
+02/11/2026  00:52            31,833 encontrarayudabiblico-12-vf.md
+02/11/2026  00:52            38,781 encontrarayudabiblico-13-vf.md
+02/11/2026  00:52            39,057 encontrarayudabiblico-14-vf.md
+02/11/2026  00:52            33,390 encontrarayudabiblico-15-vf.md
+02/11/2026  00:52            32,321 encontrarayudabiblico-16-vf.md
+02/11/2026  00:52            43,122 encontrarayudabiblico-17-vf.md
+02/11/2026  00:52            51,891 encontrarayudabiblico-18-vf.md
+02/11/2026  00:52            37,824 encontrarayudabiblico-19-vf.md
+02/11/2026  00:52            34,886 encontrarayudabiblico-20-vf.md
+02/11/2026  00:52            34,675 encontrarayudabiblico-21-vf.md
+02/11/2026  00:52            35,849 encontrarayudabiblico-22-vf.md
+02/11/2026  00:52            42,569 encontrarayudabiblico-23-vf.md
+02/11/2026  00:52            34,889 encontrarayudabiblico-24-vf.md
+02/11/2026  00:52            32,915 encontrarayudabiblico-25-vf.md
+02/11/2026  00:52            37,253 encontrarayudabiblico-26-vf.md
+02/11/2026  00:52            34,024 encontrarayudabiblico-27-vf.md
+02/11/2026  00:52            31,835 encontrarayudabiblico-28-vf.md
+02/11/2026  00:52            31,866 encontrarayudabiblico-29-vf.md
+02/11/2026  00:52            31,712 encontrarayudabiblico-30-vf.md
+02/11/2026  00:52            34,088 encontrarayudabiblico-31-vf.md
+02/11/2026  00:52            37,856 encontrarayudabiblico-32-vf.md
+02/11/2026  00:52            30,226 encontrarayudabiblico-33-vf.md
+02/11/2026  00:52            28,859 encontrarayudabiblico-34-vf.md
+02/11/2026  00:52            32,005 encontrarayudabiblico-35-vf.md
+02/11/2026  00:52            28,234 encontrarayudabiblico-36-vf.md
+02/11/2026  00:52            38,276 encontrarayudabiblico-37-vf.md
+02/11/2026  00:52            44,953 encontrarayudabiblico-38-vf.md
+02/11/2026  00:52            35,085 encontrarayudabiblico-39-vf.md
+02/11/2026  00:52            43,385 encontrarayudabiblico-40-vf.md
+02/11/2026  00:52            37,695 encontrarayudabiblico-41-vf.md
+02/11/2026  00:52            36,605 encontrarayudabiblico-42-vf.md
+02/11/2026  00:52            37,289 encontrarayudabiblico-43-vf.md
+02/11/2026  00:52            40,277 encontrarayudabiblico-44-vf.md
+02/11/2026  00:52            33,487 encontrarayudabiblico-45-vf.md
+02/11/2026  00:52            43,339 encontrarayudabiblico-46-vf.md
+02/11/2026  00:52            43,944 encontrarayudabiblico-47-vf.md
+02/11/2026  00:52            39,439 encontrarayudabiblico-48-vf.md
+02/11/2026  00:52            28,575 encontrarayudabiblico-49-vf.md
+02/11/2026  00:53            35,500 encontrarayudabiblico-50-vf.md
+02/11/2026  00:53            40,933 encontrarayudabiblico-51-vf.md
+02/11/2026  00:53            39,817 encontrarayudabiblico-52-vf.md
+02/11/2026  00:53            30,285 encontrarayudabiblico-53-vf.md
+02/11/2026  00:53            34,649 encontrarayudabiblico-54-vf.md
+02/11/2026  00:53            37,365 encontrarayudabiblico-55-vf.md
+02/11/2026  00:53            38,646 encontrarayudabiblico-56-vf.md
+02/11/2026  00:53            37,050 encontrarayudabiblico-57-vf.md
+02/11/2026  00:53            42,939 encontrarayudabiblico-58-vf.md
+02/11/2026  00:53            35,341 encontrarayudabiblico-59-vf.md
+02/11/2026  00:53            36,312 encontrarayudabiblico-60-vf.md
+02/11/2026  00:53            36,311 encontrarayudabiblico-61-vf.md
+02/11/2026  00:53            30,545 encontrarayudabiblico-62-vf.md
+02/11/2026  00:53            36,631 encontrarayudabiblico-63-vf.md
+02/11/2026  00:53            38,764 encontrarayudabiblico-64-vf.md
+02/11/2026  00:53            36,023 encontrarayudabiblico-65-vf.md
+02/11/2026  00:53            38,325 encontrarayudabiblico-66-vf.md
+02/11/2026  00:53            36,082 encontrarayudabiblico-67-vf.md
+02/11/2026  00:53            35,187 encontrarayudabiblico-68-vf.md
+              68 archivos      2,458,920 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\ayudas-espirituales
+
+02/11/2026  00:53            26,667 ayuda-especial-01-vf.md
+02/11/2026  00:53            29,392 ayuda-especial-02-vf.md
+02/11/2026  00:53            31,238 ayuda-especial-03-vf.md
+02/11/2026  00:53            36,476 ayuda-especial-04-vf.md
+02/11/2026  00:53            26,906 ayuda-especial-05-vf.md
+02/11/2026  00:53            26,733 ayuda-especial-06-vf.md
+02/11/2026  00:53            28,982 ayuda-especial-07-vf.md
+02/11/2026  00:53            28,973 ayuda-especial-08-vf.md
+02/11/2026  00:53            28,617 ayuda-especial-09-vf.md
+02/11/2026  00:53            31,583 ayuda-especial-10-vf.md
+02/11/2026  00:53            28,277 ayuda-especial-11-vf.md
+02/11/2026  00:53            32,406 ayuda-especial-12-vf.md
+02/11/2026  00:53            31,573 ayuda-especial-13-vf.md
+02/11/2026  00:53            30,809 ayuda-especial-14-vf.md
+02/11/2026  00:53            29,463 ayuda-especial-15-vf.md
+02/11/2026  00:53            29,498 ayuda-especial-16-vf.md
+02/11/2026  00:53            31,307 ayuda-especial-17-vf.md
+02/11/2026  00:53            29,954 ayuda-especial-18-vf.md
+02/11/2026  00:53            31,158 ayuda-especial-19-vf.md
+02/11/2026  00:53            32,181 ayuda-especial-20-vf.md
+02/11/2026  00:53            35,705 ayuda-especial-21-vf.md
+02/11/2026  00:53            43,245 ayuda-especial-22-vf.md
+02/11/2026  00:53            34,409 ayuda-especial-23-vf.md
+02/11/2026  00:53            28,157 ayuda-especial-24-vf.md
+02/11/2026  00:53            33,995 ayuda-especial-25-vf.md
+02/11/2026  00:53            31,119 ayuda-especial-26-vf.md
+02/11/2026  00:53            26,518 ayuda-especial-27-vf.md
+02/11/2026  00:53            30,485 ayuda-especial-28-vf.md
+02/11/2026  00:53            32,580 ayuda-especial-29-vf.md
+02/11/2026  00:53            49,741 ayuda-especial-30-vf.md
+02/11/2026  00:53            37,907 ayuda-especial-31-vf.md
+02/11/2026  00:53            50,052 ayuda-especial-32-vf.md
+02/11/2026  00:53            43,923 ayuda-especial-33-vf.md
+              33 archivos      1,080,029 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\bienaventuranzas
+
+02/11/2026  00:53            31,203 bienaventuranzas-01-vf.md
+02/11/2026  00:53            26,141 bienaventuranzas-02-vf.md
+02/11/2026  00:53            26,728 bienaventuranzas-03-vf.md
+02/11/2026  00:53            26,885 bienaventuranzas-04-vf.md
+02/11/2026  00:53            26,912 bienaventuranzas-05-vf.md
+02/11/2026  00:53            27,106 bienaventuranzas-06-vf.md
+02/11/2026  00:53            26,744 bienaventuranzas-07-vf.md
+02/11/2026  00:53            27,120 bienaventuranzas-08-vf.md
+02/11/2026  00:53            27,422 bienaventuranzas-09-vf.md
+               9 archivos        246,261 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\libro-completo
+
+02/11/2026  00:53           227,629 01-genesis-ec-vf.md
+02/11/2026  00:53           192,880 02-exodo-ec-vf.md
+02/11/2026  00:53           151,858 03-levitico-ec-vf.md
+02/11/2026  00:53           197,169 04-numeros-ec-vf.md
+02/11/2026  00:53           170,807 05-deuteronomio-ec-vf.md
+02/11/2026  00:53           129,213 06-jouse-ec-vf.md
+02/11/2026  00:53           129,427 07-jueces-ec-vf.md
+02/11/2026  00:53            45,470 08-rut-ec-vf.md
+02/11/2026  00:53           160,386 09-1-samuel-ec-vf.md
+02/11/2026  00:53           138,332 10-2-samuel-ec-vf.md
+02/11/2026  00:53           158,939 11-1-reyes-ec-vf.md
+02/11/2026  00:53           153,111 12-2-reyes-ec-vf.md
+02/11/2026  00:53           141,089 13-1-cronicas-ec-vf.md
+02/11/2026  00:53           172,879 14-2-cronicas-ec-vf.md
+02/11/2026  00:53            74,175 15-esdras-ec-vf.md
+02/11/2026  00:53            90,727 16-nehemias-ec-vf.md
+02/11/2026  00:53            64,147 17-ester-ec-vf.md
+02/11/2026  00:53           129,776 18-job-ec-vf.md
+02/11/2026  00:53           259,245 19-salmos-ec-vf.md
+02/11/2026  00:53           115,011 20-proverbios-ec-vf.md
+02/11/2026  00:53            64,014 21-eclesiastes-ec-vf.md
+02/11/2026  00:53            46,947 22-cantares-ec-vf.md
+02/11/2026  00:53           221,073 23-isaias-ec-vf.md
+02/11/2026  00:53           249,985 24-jeremias-ec-vf.md
+02/11/2026  00:53            52,037 25-lamentaciones-ec-vf.md
+02/11/2026  00:53           231,292 26-ezequiel-ec-vf.md
+02/11/2026  00:53            95,492 27-daniel-ec-vf.md
+02/11/2026  00:53            59,288 28-oseas-ec-vf.md
+02/11/2026  00:53            43,493 29-joel-ec-vf.md
+02/11/2026  00:53            55,070 30-amos-ec-vf.md
+02/11/2026  00:53            37,533 31-abdias-ec-vf.md
+02/11/2026  00:53            42,032 32-jonas-ec-vf.md
+02/11/2026  00:53            48,835 33-miqueas-ec-vf.md
+02/11/2026  00:53            40,358 34-nahum-ec-vf.md
+02/11/2026  00:53            40,685 35-habacuc-ec-vf.md
+02/11/2026  00:53            40,865 36-sofonias-ec-vf.md
+02/11/2026  00:53            39,125 37-hageo-ec-vf.md
+02/11/2026  00:53            67,557 38-zacarias-ec-vf.md
+02/11/2026  00:53            44,046 39-malaquias-ec-vf.md
+02/11/2026  00:53           155,211 40-san-mateo-ec-vf.md
+02/11/2026  00:53           105,953 41-san-marcos-ec-vf.md
+02/11/2026  00:53           162,270 42-san-lucas-ec-vf.md
+02/11/2026  00:53           127,625 43-san-juan.ec-vf.md
+02/11/2026  00:53           161,570 44-hechos-ec-vf.md
+02/11/2026  00:53            81,177 45-romanos-ec-vf.md
+02/11/2026  00:53            79,539 46-1-corintios-ec-vf.md
+02/11/2026  00:53            62,637 47-2-corintios-ec-vf.md
+02/11/2026  00:53            44,670 48-galatas-ec-vf.md
+02/11/2026  00:53            45,204 49-efesios-ec-vf.md
+02/11/2026  00:53            39,698 50-filipenses-ec-vf.md
+02/11/2026  00:53            39,117 51-colosenses-ec-vf.md
+02/11/2026  00:53            37,725 52-1-tesalonicenses-ec-vf.md
+02/11/2026  00:53            32,698 53-2-tesalonicenses-ec-vf.md
+02/11/2026  00:53            40,784 54-1-timoteo-ec-vf.md
+02/11/2026  00:53            37,469 55-2-timoteo-ec-vf.md
+02/11/2026  00:53            33,091 56-tito-ec-vf.md
+02/11/2026  00:53            29,584 57-filemon-ec-vf.md
+02/11/2026  00:53            67,204 58-hebreos-ec-vf.md
+02/11/2026  00:53            40,755 59-santiago-ec-vf.md
+02/11/2026  00:53            42,474 60-1-pedro-ec-vf.md
+02/11/2026  00:53            36,707 61-2-pedro-ec-vf.md
+02/11/2026  00:53            40,694 62-1-juan-ec-vf.md
+02/11/2026  00:53            28,059 63-2-juan-ec-vf.md
+02/11/2026  00:53            28,888 64-3-juan-ec-vf.md
+02/11/2026  00:53            30,706 65-san-judas-ec-vf.md
+02/11/2026  00:53            31,645 66-apocalipsis-ec-vf.md
+              66 archivos      6,085,151 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\parabolas
+
+02/11/2026  00:53            33,575 parabolas-01-vf.md
+02/11/2026  00:53            31,522 parabolas-02-vf.md
+02/11/2026  00:53            29,788 parabolas-03-vf.md
+02/11/2026  00:53            28,567 parabolas-04-vf.md
+02/11/2026  00:53            29,784 parabolas-05-vf.md
+02/11/2026  00:53            31,422 parabolas-06-vf.md
+02/11/2026  00:53            29,718 parabolas-07-vf.md
+02/11/2026  00:53            29,015 parabolas-08-vf.md
+02/11/2026  00:53            26,005 parabolas-09-vf.md
+02/11/2026  00:53            24,298 parabolas-10-vf.md
+02/11/2026  00:53            24,824 parabolas-11-vf.md
+02/11/2026  00:53            24,879 parabolas-12-vf.md
+02/11/2026  00:53            28,151 parabolas-13-vf.md
+02/11/2026  00:53            27,965 parabolas-14-vf.md
+02/11/2026  00:53            29,958 parabolas-15-vf.md
+02/11/2026  00:53            29,721 parabolas-16-vf.md
+02/11/2026  00:53            27,004 parabolas-17-vf.md
+02/11/2026  00:53            30,646 parabolas-18-vf.md
+02/11/2026  00:54            32,956 parabolas-19-vf.md
+02/11/2026  00:54            30,867 parabolas-20-vf.md
+02/11/2026  00:54            30,779 parabolas-21-vf.md
+02/11/2026  00:54            28,825 parabolas-22-vf.md
+02/11/2026  00:54            29,210 parabolas-23-vf.md
+02/11/2026  00:54            28,723 parabolas-24-vf.md
+02/11/2026  00:54            26,734 parabolas-25-vf.md
+02/11/2026  00:54            27,254 parabolas-26-vf.md
+02/11/2026  00:54            26,425 parabolas-27-vf.md
+02/11/2026  00:54            25,282 parabolas-28-vf.md
+02/11/2026  00:54            27,666 parabolas-29-vf.md
+02/11/2026  00:54            27,446 parabolas-30-vf.md
+02/11/2026  00:54            29,058 parabolas-31-vf.md
+02/11/2026  00:54            26,330 parabolas-32-vf.md
+02/11/2026  00:54            26,553 parabolas-33-vf.md
+02/11/2026  00:54            25,871 parabolas-34-vf.md
+02/11/2026  00:54            25,553 parabolas-35-vf.md
+02/11/2026  00:54            25,251 parabolas-36-vf.md
+02/11/2026  00:54            30,758 parabolas-37-vf.md
+02/11/2026  00:54            27,004 parabolas-38-vf.md
+02/11/2026  00:54            26,333 parabolas-39-vf.md
+02/11/2026  00:54            28,304 parabolas-40-vf.md
+02/11/2026  00:54            29,181 parabolas-41-vf.md
+02/11/2026  00:54            28,507 parabolas-42-vf.md
+02/11/2026  00:54            26,616 parabolas-43-vf.md
+02/11/2026  00:54            26,477 parabolas-44-vf.md
+02/11/2026  00:54            28,800 parabolas-45-vf.md
+02/11/2026  00:54            30,063 parabolas-46-vf.md
+02/11/2026  00:54            28,073 parabolas-47-vf.md
+02/11/2026  00:54            26,306 parabolas-48-vf.md
+02/11/2026  00:54            25,871 parabolas-49-vf.md
+02/11/2026  00:54            25,294 parabolas-50-vf.md
+02/11/2026  00:54            30,438 parabolas-51-vf.md
+02/11/2026  00:54            29,078 parabolas-52-vf.md
+              52 archivos      1,464,728 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\AT\01-Genesis
+
+02/11/2026  00:56            32,045 genesis-01-vf.md
+02/11/2026  00:56            27,926 genesis-02-vf.md
+02/11/2026  00:56            27,758 genesis-03-vf.md
+02/11/2026  00:56            27,033 genesis-04-vf.md
+02/11/2026  00:56            26,843 genesis-05-vf.md
+02/11/2026  00:56            27,502 genesis-06-vf.md
+02/11/2026  00:56            27,665 genesis-07-vf.md
+02/11/2026  00:56            28,217 genesis-08-vf.md
+02/11/2026  00:56            28,724 genesis-09-vf.md
+02/11/2026  00:56            27,195 genesis-10-vf.md
+02/11/2026  00:56            29,250 genesis-11-vf.md
+02/11/2026  00:56            27,745 genesis-12-vf.md
+02/11/2026  00:56            27,347 genesis-13-vf.md
+02/11/2026  00:56            28,616 genesis-14-vf.md
+02/11/2026  00:56            27,799 genesis-15-vf.md
+02/11/2026  00:56            26,945 genesis-16-vf.md
+02/11/2026  00:56            28,885 genesis-17-vf.md
+02/11/2026  00:56            29,307 genesis-18-vf.md
+02/11/2026  00:56            31,156 genesis-19-vf.md
+02/11/2026  00:56            27,380 genesis-20-vf.md
+02/11/2026  00:56            28,854 genesis-21-vf.md
+02/11/2026  00:56            28,364 genesis-22-vf.md
+02/11/2026  00:56            27,724 genesis-23-vf.md
+02/11/2026  00:56            34,389 genesis-24-vf.md
+02/11/2026  00:56            29,171 genesis-25-vf.md
+02/11/2026  00:56            30,315 genesis-26-vf.md
+02/11/2026  00:56            31,615 genesis-27-vf.md
+02/11/2026  00:56            28,180 genesis-28-vf.md
+02/11/2026  00:56            29,768 genesis-29-vf.md
+02/11/2026  00:56            30,248 genesis-30-vf.md
+02/11/2026  00:56            32,752 genesis-31-vf.md
+02/11/2026  00:56            29,941 genesis-32-vf.md
+02/11/2026  00:56            27,933 genesis-33-vf.md
+02/11/2026  00:56            30,172 genesis-34-vf.md
+02/11/2026  00:56            28,993 genesis-35-vf.md
+02/11/2026  00:56            29,577 genesis-36-vf.md
+02/11/2026  00:56            31,587 genesis-37-vf.md
+02/11/2026  00:56            30,066 genesis-38-vf.md
+02/11/2026  00:56            28,924 genesis-39-vf.md
+02/11/2026  00:56            29,341 genesis-40-vf.md
+02/11/2026  00:56            34,187 genesis-41-vf.md
+02/11/2026  00:56            31,980 genesis-42-vf.md
+02/11/2026  00:56            30,985 genesis-43-vf.md
+02/11/2026  00:56            30,744 genesis-44-vf.md
+02/11/2026  00:56            29,858 genesis-45-vf.md
+02/11/2026  00:56            30,071 genesis-46-vf.md
+02/11/2026  00:56            31,318 genesis-47-vf.md
+02/11/2026  00:56            29,254 genesis-48-vf.md
+02/11/2026  00:56            30,094 genesis-49-vf.md
+02/11/2026  00:56            30,508 genesis-50-vf.md
+              50 archivos      1,472,251 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\AT\02-Exodo
+
+02/11/2026  00:56            28,608 exodo-01-vf.md
+02/11/2026  00:56            26,775 exodo-02-vf.md
+02/11/2026  00:56            26,781 exodo-03-vf.md
+02/11/2026  00:56            27,896 exodo-04-vf.md
+02/11/2026  00:56            26,899 exodo-05-vf.md
+02/11/2026  00:56            27,627 exodo-06-vf.md
+02/11/2026  00:56            27,637 exodo-07-vf.md
+02/11/2026  00:56            28,846 exodo-08-vf.md
+02/11/2026  00:56            28,961 exodo-09-vf.md
+02/11/2026  00:56            28,626 exodo-10-vf.md
+02/11/2026  00:56            26,159 exodo-11-vf.md
+02/11/2026  00:56            32,417 exodo-12-vf.md
+02/11/2026  00:56            27,525 exodo-13-vf.md
+02/11/2026  00:56            29,302 exodo-14-vf.md
+02/11/2026  00:56            28,373 exodo-15-vf.md
+02/11/2026  00:56            28,855 exodo-16-vf.md
+02/11/2026  00:56            26,131 exodo-17-vf.md
+02/11/2026  00:56            27,892 exodo-18-vf.md
+02/11/2026  00:56            27,418 exodo-19-vf.md
+02/11/2026  00:56            27,334 exodo-20-vf.md
+02/11/2026  00:56            29,488 exodo-21-vf.md
+02/11/2026  00:56            29,056 exodo-22-vf.md
+02/11/2026  00:56            29,391 exodo-23-vf.md
+02/11/2026  00:56            28,172 exodo-24-vf.md
+02/11/2026  00:56            29,674 exodo-25-vf.md
+02/11/2026  00:56            29,947 exodo-26-vf.md
+02/11/2026  00:56            27,754 exodo-27-vf.md
+02/11/2026  00:56            31,743 exodo-28-vf.md
+02/11/2026  00:56            32,308 exodo-29-vf.md
+02/11/2026  00:56            29,708 exodo-30-vf.md
+02/11/2026  00:56            27,691 exodo-31-vf.md
+02/11/2026  00:56            31,704 exodo-32-vf.md
+02/11/2026  00:56            28,773 exodo-33-vf.md
+02/11/2026  00:56            31,484 exodo-34-vf.md
+02/11/2026  00:56            29,856 exodo-35-vf.md
+02/11/2026  00:56            30,755 exodo-36-vf.md
+02/11/2026  00:56            29,049 exodo-37-vf.md
+02/11/2026  00:56            30,132 exodo-38-vf.md
+02/11/2026  00:56            31,121 exodo-39-vf.md
+02/11/2026  00:56            31,059 exodo-40-vf.md
+              40 archivos      1,158,927 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\AT\03-Levitio
+
+02/11/2026  00:56            27,720 levitico-01-vf.md
+02/11/2026  00:56            26,965 levitico-02-vf.md
+02/11/2026  00:56            26,770 levitico-03-vf.md
+02/11/2026  00:56            29,825 levitico-04-vf.md
+02/11/2026  00:56            27,717 levitico-05-vf.md
+02/11/2026  00:56            28,351 levitico-06-vf.md
+02/11/2026  00:56            29,112 levitico-07-vf.md
+02/11/2026  00:56            29,625 levitico-08-vf.md
+02/11/2026  00:56            27,853 levitico-09-vf.md
+02/11/2026  00:56            27,572 levitico-10-vf.md
+02/11/2026  00:56            29,947 levitico-11-vf.md
+02/11/2026  00:56            25,625 levitico-12-vf.md
+02/11/2026  00:57            33,826 levitico-13-vf.md
+02/11/2026  00:57            32,299 levitico-14-vf.md
+02/11/2026  00:57            29,608 levitico-15-vf.md
+02/11/2026  00:57            30,814 levitico-16-vf.md
+02/11/2026  00:57            27,442 levitico-17-vf.md
+02/11/2026  00:57            28,590 levitico-18-vf.md
+02/11/2026  00:57            28,702 levitico-19-vf.md
+02/11/2026  00:57            28,057 levitico-20-vf.md
+02/11/2026  00:57            27,454 levitico-21-vf.md
+02/11/2026  00:57            28,801 levitico-22-vf.md
+02/11/2026  00:57            30,637 levitico-23-vf.md
+02/11/2026  00:57            27,198 levitico-24-vf.md
+02/11/2026  00:57            32,219 levitico-25-vf.md
+02/11/2026  00:57            31,514 levitico-26-vf.md
+02/11/2026  00:57            29,637 levitico-27-vf.md
+              27 archivos        783,880 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\AT\04-Deuteronomio
+
+02/11/2026  00:57            32,504 deuteronomio-01-vf.md
+02/11/2026  00:57            29,975 deuteronomio-02-vf.md
+02/11/2026  00:57            28,979 deuteronomio-03-vf.md
+02/11/2026  00:57            32,058 deuteronomio-04-vf.md
+02/11/2026  00:57            28,074 deuteronomio-05-vf.md
+02/11/2026  00:57            27,288 deuteronomio-06-vf.md
+02/11/2026  00:57            20,874 deuteronomio-07-vf.md
+02/11/2026  00:57            20,697 deuteronomio-08-vf.md
+02/11/2026  00:57            20,631 deuteronomio-09-vf.md
+02/11/2026  00:57            20,307 deuteronomio-10-vf.md
+02/11/2026  00:57            20,351 deuteronomio-11-vf.md
+02/11/2026  00:57            22,287 deuteronomio-12-vf.md
+02/11/2026  00:57            21,849 deuteronomio-13-vf.md
+02/11/2026  00:57            21,401 deuteronomio-14-vf.md
+02/11/2026  00:57            21,948 deuteronomio-15-vf.md
+02/11/2026  00:57            21,708 deuteronomio-16-vf.md
+02/11/2026  00:57            28,150 deuteronomio-17-vf.md
+02/11/2026  00:57            28,132 deuteronomio-18-vf.md
+02/11/2026  00:57            28,055 deuteronomio-19-vf.md
+02/11/2026  00:57            28,831 deuteronomio-20-vf.md
+02/11/2026  00:57            28,724 deuteronomio-21-vf.md
+02/11/2026  00:57            28,902 deuteronomio-22-vf.md
+02/11/2026  00:57            27,852 deuteronomio-23-vf.md
+02/11/2026  00:57            28,424 deuteronomio-24-vf.md
+02/11/2026  00:57            27,252 deuteronomio-25-vf.md
+02/11/2026  00:57            28,548 deuteronomio-26-vf.md
+02/11/2026  00:57            28,190 deuteronomio-27-vf.md
+02/11/2026  00:57            34,134 deuteronomio-28-vf.md
+02/11/2026  00:57            29,796 deuteronomio-29-vf.md
+02/11/2026  00:57            28,361 deuteronomio-30-vf.md
+02/11/2026  00:57            30,187 deuteronomio-31-vf.md
+02/11/2026  00:57            31,386 deuteronomio-32-vf.md
+02/11/2026  00:57            28,904 deuteronomio-33-vf.md
+02/11/2026  00:57            27,516 deuteronomio-34-vf.md
+              34 archivos        912,275 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\AT\04-Numeros
+
+02/11/2026  00:57            33,989 numeros-01-vf.md
+02/11/2026  00:57            29,299 numeros-02-vf.md
+02/11/2026  00:57            31,987 numeros-03-vf.md
+02/11/2026  00:57            32,414 numeros-04-vf.md
+02/11/2026  00:57            29,360 numeros-05-vf.md
+02/11/2026  00:57            28,664 numeros-06-vf.md
+02/11/2026  00:57            29,339 numeros-07-vf.md
+02/11/2026  00:57            28,403 numeros-08-vf.md
+02/11/2026  00:57            29,042 numeros-09-vf.md
+02/11/2026  00:57            29,557 numeros-10-vf.md
+02/11/2026  00:57            30,749 numeros-11-vf.md
+02/11/2026  00:57            27,434 numeros-12-vf.md
+02/11/2026  00:57            29,366 numeros-13-vf.md
+02/11/2026  00:57            31,949 numeros-14-vf.md
+02/11/2026  00:57            31,368 numeros-15-vf.md
+02/11/2026  00:57            32,812 numeros-16-vf.md
+02/11/2026  00:57            27,435 numeros-17-vf.md
+02/11/2026  00:57            31,412 numeros-18-vf.md
+02/11/2026  00:57            29,226 numeros-19-vf.md
+02/11/2026  00:57            29,854 numeros-20-vf.md
+02/11/2026  00:57            30,836 numeros-21-vf.md
+02/11/2026  00:57            32,350 numeros-22-vf.md
+02/11/2026  00:57            29,744 numeros-23-vf.md
+02/11/2026  00:57            29,771 numeros-24-vf.md
+02/11/2026  00:57            27,681 numeros-25-vf.md
+02/11/2026  00:57            33,236 numeros-26-vf.md
+02/11/2026  00:57            29,616 numeros-27-vf.md
+02/11/2026  00:57            28,830 numeros-28-vf.md
+02/11/2026  00:57            30,555 numeros-29-vf.md
+02/11/2026  00:57            28,002 numeros-30-vf.md
+02/11/2026  00:57            33,073 numeros-31-vf.md
+02/11/2026  00:57            31,987 numeros-32-vf.md
+02/11/2026  00:57            30,640 numeros-33-vf.md
+02/11/2026  00:57            28,669 numeros-34-vf.md
+02/11/2026  00:57            31,156 numeros-35-vf.md
+02/11/2026  00:57            29,162 numeros-36-vf.md
+              36 archivos      1,088,967 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\AT\06-Josue
+
+02/11/2026  00:57            29,870 josue-01-vf.md
+02/11/2026  00:57            29,148 josue-02-vf.md
+02/11/2026  00:57            28,185 josue-03-vf.md
+02/11/2026  00:57            28,273 josue-04-vf.md
+02/11/2026  00:57            27,904 josue-05-vf.md
+02/11/2026  00:57            30,254 josue-06-vf.md
+02/11/2026  00:57            29,369 josue-07-vf.md
+02/11/2026  00:57            31,270 josue-08-vf.md
+02/11/2026  00:57            29,688 josue-09-vf.md
+02/11/2026  00:57            32,411 josue-10-vf.md
+02/11/2026  00:57            29,332 josue-11-vf.md
+02/11/2026  00:57            26,864 josue-12-vf.md
+02/11/2026  00:57            29,627 josue-13-vf.md
+02/11/2026  00:57            27,292 josue-14-vf.md
+02/11/2026  00:57            29,900 josue-15-vf.md
+02/11/2026  00:57            25,363 josue-16-vf.md
+02/11/2026  00:57            29,030 josue-17-vf.md
+02/11/2026  00:57            29,020 josue-18-vf.md
+02/11/2026  00:57            29,643 josue-19-vf.md
+02/11/2026  00:57            26,778 josue-20-vf.md
+02/11/2026  00:57            30,510 josue-21-vf.md
+02/11/2026  00:57            32,740 josue-22-vf.md
+02/11/2026  00:57            28,397 josue-23-vf.md
+02/11/2026  00:57            31,031 josue-24-vf.md
+              24 archivos        701,899 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\AT\07-Jueces
+
+02/11/2026  00:57            31,366 jueces-01-vf.md
+02/11/2026  00:57            29,720 jueces-02-vf.md
+02/11/2026  00:57            31,750 jueces-03-vf.md
+02/11/2026  00:57            30,479 jueces-04-vf.md
+02/11/2026  00:57            31,832 jueces-05-vf.md
+02/11/2026  00:57            33,312 jueces-06-vf.md
+02/11/2026  00:57            31,616 jueces-07-vf.md
+02/11/2026  00:58            32,429 jueces-08-vf.md
+02/11/2026  00:58            35,964 jueces-09-vf.md
+02/11/2026  00:58            29,925 jueces-10-vf.md
+02/11/2026  00:58            33,497 jueces-11-vf.md
+02/11/2026  00:58            28,712 jueces-12-vf.md
+02/11/2026  00:58            31,017 jueces-13-vf.md
+02/11/2026  00:58            30,929 jueces-14-vf.md
+02/11/2026  00:58            30,431 jueces-15-vf.md
+02/11/2026  00:58            33,630 jueces-16-vf.md
+02/11/2026  00:58            29,462 jueces-17-vf.md
+02/11/2026  00:58            32,978 jueces-18-vf.md
+02/11/2026  00:58            32,799 jueces-19-vf.md
+02/11/2026  00:58            35,634 jueces-20-vf.md
+02/11/2026  00:58            33,081 jueces-21-vf.md
+              21 archivos        670,563 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\AT\08-Rut
+
+02/11/2026  00:58            31,794 rut-01-vf.md
+02/11/2026  00:58            30,315 rut-02-vf.md
+02/11/2026  00:58            29,100 rut-03-vf.md
+02/11/2026  00:58            30,046 rut-04-vf.md
+               4 archivos        121,255 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\AT\09-1-Samuel
+
+02/11/2026  00:58            29,918 1-samuel-01-vf.md
+02/11/2026  00:58            31,625 1-samuel-02-vf.md
+02/11/2026  00:58            29,233 1-samuel-03-vf.md
+02/11/2026  00:58            30,500 1-samuel-04-vf.md
+02/11/2026  00:58            28,636 1-samuel-05-vf.md
+02/11/2026  00:58            30,404 1-samuel-06-vf.md
+02/11/2026  00:58            29,626 1-samuel-07-vf.md
+02/11/2026  00:58            29,913 1-samuel-08-vf.md
+02/11/2026  00:58            32,466 1-samuel-09-vf.md
+02/11/2026  00:58            32,389 1-samuel-10-vf.md
+02/11/2026  00:58            29,682 1-samuel-11-vf.md
+02/11/2026  00:58            31,142 1-samuel-12-vf.md
+02/11/2026  00:58            30,797 1-samuel-13-vf.md
+02/11/2026  00:58            36,178 1-samuel-14-vf.md
+02/11/2026  00:58            32,948 1-samuel-15-vf.md
+02/11/2026  00:58            30,005 1-samuel-16-vf.md
+02/11/2026  00:58            36,281 1-samuel-17-vf.md
+02/11/2026  00:58            31,442 1-samuel-18-vf.md
+02/11/2026  00:58            31,301 1-samuel-19-vf.md
+02/11/2026  00:58            34,005 1-samuel-20-vf.md
+02/11/2026  00:58            29,697 1-samuel-21-vf.md
+02/11/2026  00:58            32,157 1-samuel-22-vf.md
+02/11/2026  00:58            31,997 1-samuel-23-vf.md
+02/11/2026  00:58            31,359 1-samuel-24-vf.md
+02/11/2026  00:58            35,206 1-samuel-25-vf.md
+02/11/2026  00:58            32,540 1-samuel-26-vf.md
+02/11/2026  00:58            30,196 1-samuel-27-vf.md
+02/11/2026  00:58            32,682 1-samuel-28-vf.md
+02/11/2026  00:58            30,559 1-samuel-29-vf.md
+02/11/2026  00:58            33,795 1-samuel-30-vf.md
+02/11/2026  00:58            31,037 1-samuel-31-vf.md
+              31 archivos        979,716 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\AT\10-2-Samuel
+
+02/11/2026  00:58            27,334 2-samuel-01-vf.md
+02/11/2026  00:58            28,004 2-samuel-02-vf.md
+02/11/2026  00:58            29,454 2-samuel-03-vf.md
+02/11/2026  00:58            24,765 2-samuel-04-vf.md
+02/11/2026  00:58            26,124 2-samuel-05-vf.md
+02/11/2026  00:58            26,584 2-samuel-06-vf.md
+02/11/2026  00:58            27,493 2-samuel-07-vf.md
+02/11/2026  00:58            25,215 2-samuel-08-vf.md
+02/11/2026  00:58            25,124 2-samuel-09-vf.md
+02/11/2026  00:58            26,282 2-samuel-10-vf.md
+02/11/2026  00:58            28,844 2-samuel-11-vf.md
+02/11/2026  00:58            28,907 2-samuel-12-vf.md
+02/11/2026  00:58            30,401 2-samuel-13-vf.md
+02/11/2026  00:58            29,350 2-samuel-14-vf.md
+02/11/2026  00:58            29,989 2-samuel-15-vf.md
+02/11/2026  00:58            27,360 2-samuel-16-vf.md
+02/11/2026  00:58            29,231 2-samuel-17-vf.md
+02/11/2026  00:58            29,988 2-samuel-18-vf.md
+02/11/2026  00:58            31,859 2-samuel-19-vf.md
+02/11/2026  00:58            28,000 2-samuel-20-vf.md
+02/11/2026  00:58            28,575 2-samuel-21-vf.md
+02/11/2026  00:58            27,996 2-samuel-22-vf.md
+02/11/2026  00:58            28,252 2-samuel-23-vf.md
+02/11/2026  00:58            29,397 2-samuel-24-vf.md
+              24 archivos        674,528 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\AT\11-1-Reyes
+
+02/11/2026  00:58            34,597 1-reyes-01-vf.md
+02/11/2026  00:58            32,518 1-reyes-02-vf.md
+02/11/2026  00:58            29,761 1-reyes-03-vf.md
+02/11/2026  00:58            29,018 1-reyes-04-vf.md
+02/11/2026  00:58            27,397 1-reyes-05-vf.md
+02/11/2026  00:58            30,220 1-reyes-06-vf.md
+02/11/2026  00:58            33,180 1-reyes-07-vf.md
+02/11/2026  00:58            36,438 1-reyes-08-vf.md
+02/11/2026  00:58            29,494 1-reyes-09-vf.md
+02/11/2026  00:58            29,204 1-reyes-10-vf.md
+02/11/2026  00:58            31,374 1-reyes-11-vf.md
+02/11/2026  00:58            30,153 1-reyes-12-vf.md
+02/11/2026  00:58            30,694 1-reyes-13-vf.md
+02/11/2026  00:58            29,709 1-reyes-14-vf.md
+02/11/2026  00:58            29,581 1-reyes-15-vf.md
+02/11/2026  00:58            30,200 1-reyes-16-vf.md
+02/11/2026  00:58            28,620 1-reyes-17-vf.md
+02/11/2026  00:58            32,204 1-reyes-18-vf.md
+02/11/2026  00:58            28,708 1-reyes-19-vf.md
+02/11/2026  00:58            32,327 1-reyes-20-vf.md
+02/11/2026  00:58            29,480 1-reyes-21-vf.md
+02/11/2026  00:58            33,085 1-reyes-22-vf.md
+              22 archivos        677,962 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\AT\12-2-Reyes
+
+02/11/2026  00:58            26,843 2-reyes-01-vf.md
+02/11/2026  00:58            26,322 2-reyes-02-vf.md
+02/11/2026  00:58            26,923 2-reyes-03-vf.md
+02/11/2026  00:58            29,730 2-reyes-04-vf.md
+02/11/2026  00:58            28,332 2-reyes-05-vf.md
+02/11/2026  00:58            28,944 2-reyes-06-vf.md
+02/11/2026  00:58            27,308 2-reyes-07-vf.md
+02/11/2026  00:58            28,283 2-reyes-08-vf.md
+02/11/2026  00:58            28,882 2-reyes-09-vf.md
+02/11/2026  00:58            29,361 2-reyes-10-vf.md
+02/11/2026  00:58            27,140 2-reyes-11-vf.md
+02/11/2026  00:58            26,924 2-reyes-12-vf.md
+02/11/2026  00:58            27,693 2-reyes-13-vf.md
+02/11/2026  00:58            27,499 2-reyes-14-vf.md
+02/11/2026  00:58            29,128 2-reyes-15-vf.md
+02/11/2026  00:58            26,489 2-reyes-16-vf.md
+02/11/2026  00:58            30,202 2-reyes-17-vf.md
+02/11/2026  00:58            30,113 2-reyes-18-vf.md
+02/11/2026  00:58            29,655 2-reyes-19-vf.md
+02/11/2026  00:58            27,012 2-reyes-20-vf.md
+02/11/2026  00:58            27,887 2-reyes-21-vf.md
+02/11/2026  00:58            27,374 2-reyes-22-vf.md
+02/11/2026  00:58            32,029 2-reyes-23-vf.md
+02/11/2026  00:58            27,246 2-reyes-24-vf.md
+02/11/2026  00:58            29,591 2-reyes-25-vf.md
+              25 archivos        706,910 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\AT\13-1-Cronicas
+
+02/11/2026  00:58            29,121 1-cronicas-01-vf.md
+02/11/2026  00:58            28,075 1-cronicas-02-vf.md
+02/11/2026  00:58            26,099 1-cronicas-03-vf.md
+02/11/2026  00:58            27,480 1-cronicas-04-vf.md
+02/11/2026  00:58            27,361 1-cronicas-05-vf.md
+02/11/2026  00:58            31,127 1-cronicas-06-vf.md
+02/11/2026  00:58            28,444 1-cronicas-07-vf.md
+02/11/2026  00:58            26,869 1-cronicas-08-vf.md
+02/11/2026  00:58            29,076 1-cronicas-09-vf.md
+02/11/2026  00:58            25,646 1-cronicas-10-vf.md
+02/11/2026  00:58            28,350 1-cronicas-11-vf.md
+02/11/2026  00:58            29,347 1-cronicas-12-vf.md
+02/11/2026  00:58            25,577 1-cronicas-13-vf.md
+02/11/2026  00:58            25,849 1-cronicas-14-vf.md
+02/11/2026  00:58            28,227 1-cronicas-15-vf.md
+02/11/2026  00:58            28,118 1-cronicas-16-vf.md
+02/11/2026  00:58            27,608 1-cronicas-17-vf.md
+02/11/2026  00:58            25,838 1-cronicas-18-vf.md
+02/11/2026  00:58            27,447 1-cronicas-19-vf.md
+02/11/2026  00:58            24,889 1-cronicas-20-vf.md
+02/11/2026  00:58            28,711 1-cronicas-21-vf.md
+02/11/2026  00:58            26,901 1-cronicas-22-vf.md
+02/11/2026  00:59            28,279 1-cronicas-23-vf.md
+02/11/2026  00:59            27,133 1-cronicas-24-vf.md
+02/11/2026  00:59            27,061 1-cronicas-25-vf.md
+02/11/2026  00:59            27,911 1-cronicas-26-vf.md
+02/11/2026  00:59            28,608 1-cronicas-27-vf.md
+02/11/2026  00:59            28,599 1-cronicas-28-vf.md
+02/11/2026  00:59            30,070 1-cronicas-29-vf.md
+              29 archivos        803,821 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\AT\14-2-Cronicas
+
+02/11/2026  00:59            24,865 2-cronicas-01-vf.md
+02/11/2026  00:59            24,314 2-cronicas-02-vf.md
+02/11/2026  00:59            22,938 2-cronicas-03-vf.md
+02/11/2026  00:59            24,121 2-cronicas-04-vf.md
+02/11/2026  00:59            23,695 2-cronicas-05-vf.md
+02/11/2026  00:59            28,993 2-cronicas-06-vf.md
+02/11/2026  00:59            25,976 2-cronicas-07-vf.md
+02/11/2026  00:59            24,776 2-cronicas-08-vf.md
+02/11/2026  00:59            26,768 2-cronicas-09-vf.md
+02/11/2026  00:59            24,900 2-cronicas-10-vf.md
+02/11/2026  00:59            24,898 2-cronicas-11-vf.md
+02/11/2026  00:59            24,390 2-cronicas-12-vf.md
+02/11/2026  00:59            25,309 2-cronicas-13-vf.md
+02/11/2026  00:59            24,477 2-cronicas-14-vf.md
+02/11/2026  00:59            24,576 2-cronicas-15-vf.md
+02/11/2026  00:59            25,088 2-cronicas-16-vf.md
+02/11/2026  00:59            24,464 2-cronicas-17-vf.md
+02/11/2026  00:59            28,489 2-cronicas-18-vf.md
+02/11/2026  00:59            24,469 2-cronicas-19-vf.md
+02/11/2026  00:59            28,706 2-cronicas-20-vf.md
+02/11/2026  00:59            25,789 2-cronicas-21-vf.md
+02/11/2026  00:59            24,627 2-cronicas-22-vf.md
+02/11/2026  00:59            26,826 2-cronicas-23-vf.md
+02/11/2026  00:59            27,816 2-cronicas-24-vf.md
+02/11/2026  00:59            27,587 2-cronicas-25-vf.md
+02/11/2026  00:59            26,479 2-cronicas-26-vf.md
+02/11/2026  00:59            24,203 2-cronicas-27-vf.md
+02/11/2026  00:59            27,157 2-cronicas-28-vf.md
+02/11/2026  00:59            28,820 2-cronicas-29-vf.md
+02/11/2026  00:59            28,207 2-cronicas-30-vf.md
+02/11/2026  00:59            26,993 2-cronicas-31-vf.md
+02/11/2026  00:59            29,113 2-cronicas-32-vf.md
+02/11/2026  00:59            27,778 2-cronicas-33-vf.md
+02/11/2026  00:59            29,613 2-cronicas-34-vf.md
+02/11/2026  00:59            29,046 2-cronicas-35-vf.md
+02/11/2026  00:59            27,205 2-cronicas-36-vf.md
+              36 archivos        943,471 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\AT\15-Esdras
+
+02/11/2026  00:59            29,413 esdras-01-vf.md
+02/11/2026  00:59            30,908 esdras-02-vf.md
+02/11/2026  00:59            28,673 esdras-03-vf.md
+02/11/2026  00:59            30,086 esdras-04-vf.md
+02/11/2026  00:59            28,390 esdras-05-vf.md
+02/11/2026  00:59            29,522 esdras-06-vf.md
+02/11/2026  00:59            29,879 esdras-07-vf.md
+02/11/2026  00:59            30,417 esdras-08-vf.md
+02/11/2026  00:59            29,729 esdras-09-vf.md
+02/11/2026  00:59            31,808 esdras-10-vf.md
+              10 archivos        298,825 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\AT\16-Nehemias
+
+02/11/2026  00:59            28,118 nehemias-01-vf.md
+02/11/2026  00:59            29,079 nehemias-02-vf.md
+02/11/2026  00:59            30,177 nehemias-03-vf.md
+02/11/2026  00:59            28,827 nehemias-04-vf.md
+02/11/2026  00:59            29,254 nehemias-05-vf.md
+02/11/2026  00:59            29,081 nehemias-06-vf.md
+02/11/2026  00:59            31,880 nehemias-07-vf.md
+02/11/2026  00:59            29,893 nehemias-08-vf.md
+02/11/2026  00:59            33,888 nehemias-09-vf.md
+02/11/2026  00:59            30,341 nehemias-10-vf.md
+02/11/2026  00:59            30,354 nehemias-11-vf.md
+02/11/2026  00:59            32,304 nehemias-12-vf.md
+02/11/2026  00:59            32,325 nehemias-13-vf.md
+              13 archivos        395,521 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\AT\17-Ester
+
+02/11/2026  00:59            32,050 ester-01-vf.md
+02/11/2026  00:59            30,643 ester-02-vf.md
+02/11/2026  00:59            29,234 ester-03-vf.md
+02/11/2026  00:59            28,394 ester-04-vf.md
+02/11/2026  00:59            28,547 ester-05-vf.md
+02/11/2026  00:59            28,952 ester-06-vf.md
+02/11/2026  00:59            27,539 ester-07-vf.md
+02/11/2026  00:59            30,355 ester-08-vf.md
+02/11/2026  00:59            31,919 ester-09-vf.md
+02/11/2026  00:59            27,126 ester-10-vf.md
+              10 archivos        294,759 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\AT\18-Job
+
+02/11/2026  00:59            30,036 job-01-vf.md
+02/11/2026  00:59            27,169 job-02-vf.md
+02/11/2026  00:59            26,989 job-03-vf.md
+02/11/2026  00:59            26,431 job-04-vf.md
+02/11/2026  00:59            27,355 job-05-vf.md
+02/11/2026  00:59            27,165 job-06-vf.md
+02/11/2026  00:59            26,306 job-07-vf.md
+02/11/2026  00:59            26,676 job-08-vf.md
+02/11/2026  00:59            27,555 job-09-vf.md
+02/11/2026  00:59            26,495 job-10-vf.md
+02/11/2026  00:59            26,751 job-11-vf.md
+02/11/2026  00:59            27,683 job-12-vf.md
+02/11/2026  00:59            26,449 job-13-vf.md
+02/11/2026  00:59            26,550 job-14-vf.md
+02/11/2026  00:59            26,984 job-15-vf.md
+02/11/2026  00:59            25,379 job-16-vf.md
+02/11/2026  00:59            24,400 job-17-vf.md
+02/11/2026  00:59            25,801 job-18-vf.md
+02/11/2026  00:59            26,113 job-19-vf.md
+02/11/2026  00:59            26,677 job-20-vf.md
+02/11/2026  00:59            27,051 job-21-vf.md
+02/11/2026  00:59            26,449 job-22-vf.md
+02/11/2026  00:59            25,094 job-23-vf.md
+02/11/2026  00:59            26,568 job-24-vf.md
+02/11/2026  00:59            23,581 job-25-vf.md
+02/11/2026  00:59            24,715 job-26-vf.md
+02/11/2026  00:59            25,688 job-27-vf.md
+02/11/2026  00:59            26,089 job-28-vf.md
+02/11/2026  00:59            25,604 job-29-vf.md
+02/11/2026  00:59            26,581 job-30-vf.md
+02/11/2026  00:59            27,131 job-31-vf.md
+02/11/2026  00:59            26,081 job-32-vf.md
+02/11/2026  00:59            27,012 job-33-vf.md
+02/11/2026  00:59            26,913 job-34-vf.md
+02/11/2026  00:59            24,607 job-35-vf.md
+02/11/2026  00:59            27,240 job-36-vf.md
+02/11/2026  00:59            25,566 job-37-vf.md
+02/11/2026  00:59            28,221 job-38-vf.md
+02/11/2026  00:59            27,060 job-39-vf.md
+02/11/2026  00:59            25,739 job-40-vf.md
+02/11/2026  00:59            26,710 job-41-vf.md
+02/11/2026  00:59            27,565 job-42-vf.md
+              42 archivos      1,112,229 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\AT\19-Salmos
+
+02/11/2026  00:59            27,702 salmos-001-vf.md
+02/11/2026  00:59            26,896 salmos-002-vf.md
+02/11/2026  00:59            26,802 salmos-003-vf.md
+02/11/2026  00:59            25,298 salmos-004-vf.md
+02/11/2026  00:59            25,640 salmos-005-vf.md
+02/11/2026  00:59            25,701 salmos-006-vf.md
+02/11/2026  00:59            26,371 salmos-007-vf.md
+02/11/2026  00:59            25,928 salmos-008-vf.md
+02/11/2026  00:59            27,089 salmos-009-vf.md
+02/11/2026  00:59            26,594 salmos-010-vf.md
+02/11/2026  00:59            25,603 salmos-011-vf.md
+02/11/2026  00:59            25,852 salmos-012-vf.md
+02/11/2026  00:59            25,164 salmos-013-vf.md
+02/11/2026  00:59            25,831 salmos-014-vf.md
+02/11/2026  00:59            24,864 salmos-015-vf.md
+02/11/2026  00:59            25,589 salmos-016-vf.md
+02/11/2026  00:59            25,861 salmos-017-vf.md
+02/11/2026  01:00            29,684 salmos-018-vf.md
+02/11/2026  01:00            26,354 salmos-019-vf.md
+02/11/2026  01:00            25,566 salmos-020-vf.md
+02/11/2026  01:00            25,524 salmos-021-vf.md
+02/11/2026  01:00            28,892 salmos-022-vf.md
+02/11/2026  01:00            24,809 salmos-023-vf.md
+02/11/2026  01:00            25,981 salmos-024-vf.md
+02/11/2026  01:00            26,380 salmos-025-vf.md
+02/11/2026  01:00            25,726 salmos-026-vf.md
+02/11/2026  01:00            26,674 salmos-027-vf.md
+02/11/2026  01:00            25,335 salmos-028-vf.md
+02/11/2026  01:00            25,137 salmos-029-vf.md
+02/11/2026  01:00            25,700 salmos-030-vf.md
+02/11/2026  01:00            26,155 salmos-031-vf.md
+02/11/2026  01:00            25,142 salmos-032-vf.md
+02/11/2026  01:00            26,108 salmos-033-vf.md
+02/11/2026  01:00            25,435 salmos-034-vf.md
+02/11/2026  01:00            26,699 salmos-035-vf.md
+02/11/2026  01:00            25,591 salmos-036-vf.md
+02/11/2026  01:00            30,349 salmos-037-vf.md
+02/11/2026  01:00            27,280 salmos-038-vf.md
+02/11/2026  01:00            26,456 salmos-039-vf.md
+02/11/2026  01:00            26,619 salmos-040-vf.md
+02/11/2026  01:00            27,260 salmos-041-vf.md
+02/11/2026  01:00            27,263 salmos-042-vf.md
+02/11/2026  01:00            25,356 salmos-043-vf.md
+02/11/2026  01:00            30,146 salmos-044-vf.md
+02/11/2026  01:00            28,164 salmos-045-vf.md
+02/11/2026  01:00            27,090 salmos-046-vf.md
+02/11/2026  01:00            30,282 salmos-047-vf.md
+02/11/2026  01:00            29,815 salmos-048-vf.md
+02/11/2026  01:00            30,016 salmos-049-vf.md
+02/11/2026  01:00            25,608 salmos-050-vf.md
+02/11/2026  01:00            24,647 salmos-051-vf.md
+02/11/2026  01:00            23,798 salmos-052-vf.md
+02/11/2026  01:00            27,859 salmos-053-vf.md
+02/11/2026  01:00            25,993 salmos-054-vf.md
+02/11/2026  01:00            28,061 salmos-055-vf.md
+02/11/2026  01:00            29,705 salmos-056-vf.md
+02/11/2026  01:00            28,787 salmos-057-vf.md
+02/11/2026  01:00            29,040 salmos-058-vf.md
+02/11/2026  01:00            31,861 salmos-059-vf.md
+02/11/2026  01:00            29,666 salmos-060-vf.md
+02/11/2026  01:00            28,816 salmos-061-vf.md
+02/11/2026  01:00            28,194 salmos-062-vf.md
+02/11/2026  01:00            26,704 salmos-063-vf.md
+02/11/2026  01:00            25,602 salmos-064-vf.md
+02/11/2026  01:00            28,790 salmos-065-vf.md
+02/11/2026  01:00            28,940 salmos-066-vf.md
+02/11/2026  01:00            26,721 salmos-067-vf.md
+02/11/2026  01:00            27,484 salmos-068-vf.md
+02/11/2026  01:00            26,193 salmos-069-vf.md
+02/11/2026  01:00            21,623 salmos-070-vf.md
+02/11/2026  01:00            27,054 salmos-071-vf.md
+02/11/2026  01:00            26,339 salmos-072-vf.md
+02/11/2026  01:00            27,232 salmos-073-vf.md
+02/11/2026  01:00            27,977 salmos-074-vf.md
+02/11/2026  01:00            25,466 salmos-075-vf.md
+02/11/2026  01:00            25,613 salmos-076-vf.md
+02/11/2026  01:00            30,786 salmos-077-vf.md
+02/11/2026  01:00            34,814 salmos-078-vf.md
+02/11/2026  01:00            29,966 salmos-079-vf.md
+02/11/2026  01:00            28,686 salmos-080-vf.md
+02/11/2026  01:00            27,398 salmos-081-vf.md
+02/11/2026  01:00            26,279 salmos-082-vf.md
+02/11/2026  01:00            28,668 salmos-083-vf.md
+02/11/2026  01:00            26,707 salmos-084-vf.md
+02/11/2026  01:00            26,207 salmos-085-vf.md
+02/11/2026  01:00            28,574 salmos-086-vf.md
+02/11/2026  01:00            25,264 salmos-087-vf.md
+02/11/2026  01:00            27,028 salmos-088-vf.md
+02/11/2026  01:00            31,115 salmos-089-vf.md
+02/11/2026  01:00            28,447 salmos-090-vf.md
+02/11/2026  01:00            28,640 salmos-091-vf.md
+02/11/2026  01:00            28,167 salmos-092-vf.md
+02/11/2026  01:00            23,326 salmos-093-vf.md
+02/11/2026  01:00            26,073 salmos-094-vf.md
+02/11/2026  01:00            30,681 salmos-095-vf.md
+02/11/2026  01:00            30,396 salmos-096-vf.md
+02/11/2026  01:00            30,557 salmos-097-vf.md
+02/11/2026  01:00            27,267 salmos-098-vf.md
+02/11/2026  01:00            25,508 salmos-099-vf.md
+02/11/2026  01:00            24,854 salmos-100-vf.md
+02/11/2026  01:00            26,796 salmos-101-vf.md
+02/11/2026  01:00            28,925 salmos-102-vf.md
+02/11/2026  01:00            27,461 salmos-103-vf.md
+02/11/2026  01:00            31,188 salmos-104-vf.md
+02/11/2026  01:00            30,649 salmos-105-vf.md
+02/11/2026  01:00            31,359 salmos-106-vf.md
+02/11/2026  01:00            31,534 salmos-107-vf.md
+02/11/2026  01:00            27,392 salmos-108-vf.md
+02/11/2026  01:00            29,202 salmos-109-vf.md
+02/11/2026  01:00            29,315 salmos-110-vf.md
+02/11/2026  01:00            27,853 salmos-111-vf.md
+02/11/2026  01:00            27,636 salmos-112-vf.md
+02/11/2026  01:00            29,314 salmos-113-vf.md
+02/11/2026  01:00            28,001 salmos-114-vf.md
+02/11/2026  01:00            28,732 salmos-115-vf.md
+02/11/2026  01:00            28,344 salmos-116-vf.md
+02/11/2026  01:00            25,218 salmos-117-vf.md
+02/11/2026  01:00            29,291 salmos-118-vf.md
+02/11/2026  01:00            39,761 salmos-119-vf.md
+02/11/2026  01:00            20,889 salmos-120-vf.md
+02/11/2026  01:00            21,074 salmos-121-vf.md
+02/11/2026  01:00            21,015 salmos-122-vf.md
+02/11/2026  01:00            20,739 salmos-123-vf.md
+02/11/2026  01:00            21,107 salmos-124-vf.md
+02/11/2026  01:00            24,403 salmos-125-vf.md
+02/11/2026  01:00            23,880 salmos-126-vf.md
+02/11/2026  01:00            23,351 salmos-127-vf.md
+02/11/2026  01:00            26,632 salmos-128-vf.md
+02/11/2026  01:00            26,470 salmos-129-vf.md
+02/11/2026  01:00            25,699 salmos-130-vf.md
+02/11/2026  01:00            27,161 salmos-131-vf.md
+02/11/2026  01:00            27,644 salmos-132-vf.md
+02/11/2026  01:00            25,945 salmos-133-vf.md
+02/11/2026  01:00            25,904 salmos-134-vf.md
+02/11/2026  01:00            27,190 salmos-135-vf.md
+02/11/2026  01:00            26,779 salmos-136-vf.md
+02/11/2026  01:00            25,527 salmos-137-vf.md
+02/11/2026  01:00            23,913 salmos-138-vf.md
+02/11/2026  01:00            25,490 salmos-139-vf.md
+02/11/2026  01:00            29,337 salmos-140-vf.md
+02/11/2026  01:00            27,715 salmos-141-vf.md
+02/11/2026  01:00            27,055 salmos-142-vf.md
+02/11/2026  01:00            28,848 salmos-143-vf.md
+02/11/2026  01:00            28,665 salmos-144-vf.md
+02/11/2026  01:00            28,397 salmos-145-vf.md
+02/11/2026  01:00            27,591 salmos-146-vf.md
+02/11/2026  01:00            26,992 salmos-147-vf.md
+02/11/2026  01:00            27,136 salmos-148-vf.md
+02/11/2026  01:00            27,363 salmos-149-vf.md
+02/11/2026  01:00            25,525 salmos-150-vf.md
+             150 archivos      4,068,361 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\AT\20-Proverbios
+
+02/11/2026  01:00            30,511 proverbios-01-vf.md
+02/11/2026  01:00            26,469 proverbios-02-vf.md
+02/11/2026  01:01            27,352 proverbios-03-vf.md
+02/11/2026  01:01            26,399 proverbios-04-vf.md
+02/11/2026  01:01            26,373 proverbios-05-vf.md
+02/11/2026  01:01            27,037 proverbios-06-vf.md
+02/11/2026  01:01            26,534 proverbios-07-vf.md
+02/11/2026  01:01            27,674 proverbios-08-vf.md
+02/11/2026  01:01            26,223 proverbios-09-vf.md
+02/11/2026  01:01            27,365 proverbios-10-vf.md
+02/11/2026  01:01            26,561 proverbios-11-vf.md
+02/11/2026  01:01            26,583 proverbios-12-vf.md
+02/11/2026  01:01            26,659 proverbios-13-vf.md
+02/11/2026  01:01            27,467 proverbios-14-vf.md
+02/11/2026  01:01            27,420 proverbios-15-vf.md
+02/11/2026  01:01            26,722 proverbios-16-vf.md
+02/11/2026  01:01            26,397 proverbios-17-vf.md
+02/11/2026  01:01            25,922 proverbios-18-vf.md
+02/11/2026  01:01            26,805 proverbios-19-vf.md
+02/11/2026  01:01            26,789 proverbios-20-vf.md
+02/11/2026  01:01            26,418 proverbios-21-vf.md
+02/11/2026  01:01            26,267 proverbios-22-vf.md
+02/11/2026  01:01            26,964 proverbios-23-vf.md
+02/11/2026  01:01            27,223 proverbios-24-vf.md
+02/11/2026  01:01            26,457 proverbios-25-vf.md
+02/11/2026  01:01            25,977 proverbios-26-vf.md
+02/11/2026  01:01            26,306 proverbios-27-vf.md
+02/11/2026  01:01            26,303 proverbios-28-vf.md
+02/11/2026  01:01            26,480 proverbios-29-vf.md
+02/11/2026  01:01            27,674 proverbios-30-vf.md
+02/11/2026  01:01            27,913 proverbios-31-vf.md
+              31 archivos        833,244 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\AT\21-Eclesiastes
+
+02/11/2026  01:01            30,080 eclesiastes-01-vf.md
+02/11/2026  01:01            30,116 eclesiastes-02-vf.md
+02/11/2026  01:01            29,440 eclesiastes-03-vf.md
+02/11/2026  01:01            28,425 eclesiastes-04-vf.md
+02/11/2026  01:01            28,832 eclesiastes-05-vf.md
+02/11/2026  01:01            27,516 eclesiastes-06-vf.md
+02/11/2026  01:01            30,371 eclesiastes-07-vf.md
+02/11/2026  01:01            28,337 eclesiastes-08-vf.md
+02/11/2026  01:01            29,158 eclesiastes-09-vf.md
+02/11/2026  01:01            28,655 eclesiastes-10-vf.md
+02/11/2026  01:01            28,069 eclesiastes-11-vf.md
+02/11/2026  01:01            29,799 eclesiastes-12-vf.md
+              12 archivos        348,798 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\AT\22-Cantares
+
+02/11/2026  01:01            27,489 cantares-01-vf.md
+02/11/2026  01:01            26,325 cantares-02-vf.md
+02/11/2026  01:01            24,843 cantares-03-vf.md
+02/11/2026  01:01            26,049 cantares-04-vf.md
+02/11/2026  01:01            26,860 cantares-05-vf.md
+02/11/2026  01:01            25,884 cantares-06-vf.md
+02/11/2026  01:01            25,822 cantares-07-vf.md
+02/11/2026  01:01            26,519 cantares-08-vf.md
+               8 archivos        209,791 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\AT\23-Isaias
+
+02/11/2026  01:01            31,469 isaias-01-vf.md
+02/11/2026  01:01            28,131 isaias-02-vf.md
+02/11/2026  01:01            27,791 isaias-03-vf.md
+02/11/2026  01:01            25,937 isaias-04-vf.md
+02/11/2026  01:01            29,813 isaias-05-vf.md
+02/11/2026  01:01            27,618 isaias-06-vf.md
+02/11/2026  01:01            28,788 isaias-07-vf.md
+02/11/2026  01:01            28,132 isaias-08-vf.md
+02/11/2026  01:01            28,730 isaias-09-vf.md
+02/11/2026  01:01            30,023 isaias-10-vf.md
+02/11/2026  01:01            27,749 isaias-11-vf.md
+02/11/2026  01:01            25,244 isaias-12-vf.md
+02/11/2026  01:01            27,730 isaias-13-vf.md
+02/11/2026  01:01            29,732 isaias-14-vf.md
+02/11/2026  01:01            26,738 isaias-15-vf.md
+02/11/2026  01:01            27,572 isaias-16-vf.md
+02/11/2026  01:01            27,766 isaias-17-vf.md
+02/11/2026  01:01            26,854 isaias-18-vf.md
+02/11/2026  01:01            29,243 isaias-19-vf.md
+02/11/2026  01:01            26,148 isaias-20-vf.md
+02/11/2026  01:01            27,739 isaias-21-vf.md
+02/11/2026  01:01            29,212 isaias-22-vf.md
+02/11/2026  01:01            28,280 isaias-23-vf.md
+02/11/2026  01:01            29,300 isaias-24-vf.md
+02/11/2026  01:01            27,230 isaias-25-vf.md
+02/11/2026  01:01            28,484 isaias-26-vf.md
+02/11/2026  01:01            27,914 isaias-27-vf.md
+02/11/2026  01:01            29,686 isaias-28-vf.md
+02/11/2026  01:01            29,540 isaias-29-vf.md
+02/11/2026  01:01            31,226 isaias-30-vf.md
+02/11/2026  01:01            26,766 isaias-31-vf.md
+02/11/2026  01:01            27,761 isaias-32-vf.md
+02/11/2026  01:01            28,608 isaias-33-vf.md
+02/11/2026  01:01            28,347 isaias-34-vf.md
+02/11/2026  01:01            26,500 isaias-35-vf.md
+02/11/2026  01:01            29,198 isaias-36-vf.md
+02/11/2026  01:01            36,167 isaias-37-vf.md
+02/11/2026  01:01            31,307 isaias-38-vf.md
+02/11/2026  01:01            30,558 isaias-39-vf.md
+02/11/2026  01:01            29,510 isaias-40-vf.md
+02/11/2026  01:01            28,948 isaias-41-vf.md
+02/11/2026  01:01            28,123 isaias-42-vf.md
+02/11/2026  01:01            34,118 isaias-43-vf.md
+02/11/2026  01:01            33,604 isaias-44-vf.md
+02/11/2026  01:01            32,985 isaias-45-vf.md
+02/11/2026  01:01            29,927 isaias-46-vf.md
+02/11/2026  01:01            28,905 isaias-47-vf.md
+02/11/2026  01:01            29,826 isaias-48-vf.md
+02/11/2026  01:01            30,661 isaias-49-vf.md
+02/11/2026  01:01            27,962 isaias-50-vf.md
+02/11/2026  01:01            30,074 isaias-51-vf.md
+02/11/2026  01:01            28,361 isaias-52-vf.md
+02/11/2026  01:01            29,102 isaias-53-vf.md
+02/11/2026  01:01            28,883 isaias-54-vf.md
+02/11/2026  01:01            32,351 isaias-55-vf.md
+02/11/2026  01:01            29,251 isaias-56-vf.md
+02/11/2026  01:01            31,283 isaias-57-vf.md
+02/11/2026  01:01            28,772 isaias-58-vf.md
+02/11/2026  01:01            28,209 isaias-59-vf.md
+02/11/2026  01:01            28,478 isaias-60-vf.md
+02/11/2026  01:01            30,572 isaias-61-vf.md
+02/11/2026  01:01            28,679 isaias-62-vf.md
+02/11/2026  01:01            29,620 isaias-63-vf.md
+02/11/2026  01:01            29,053 isaias-64-vf.md
+02/11/2026  01:01            30,195 isaias-65-vf.md
+02/11/2026  01:01            30,725 isaias-66-vf.md
+              66 archivos      1,923,208 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\AT\24-Jeremias
+
+02/11/2026  01:01            30,763 jeremias-01-vf.md
+02/11/2026  01:01            31,562 jeremias-02-vf.md
+02/11/2026  01:01            29,500 jeremias-03-vf.md
+02/11/2026  01:01            30,105 jeremias-04-vf.md
+02/11/2026  01:01            29,151 jeremias-05-vf.md
+02/11/2026  01:01            29,734 jeremias-06-vf.md
+02/11/2026  01:01            30,328 jeremias-07-vf.md
+02/11/2026  01:01            29,296 jeremias-08-vf.md
+02/11/2026  01:01            29,226 jeremias-09-vf.md
+02/11/2026  01:01            28,798 jeremias-10-vf.md
+02/11/2026  01:01            29,217 jeremias-11-vf.md
+02/11/2026  01:01            28,765 jeremias-12-vf.md
+02/11/2026  01:01            29,507 jeremias-13-vf.md
+02/11/2026  01:01            29,455 jeremias-14-vf.md
+02/11/2026  01:01            28,930 jeremias-15-vf.md
+02/11/2026  01:01            30,083 jeremias-16-vf.md
+02/11/2026  01:01            29,757 jeremias-17-vf.md
+02/11/2026  01:01            28,644 jeremias-18-vf.md
+02/11/2026  01:01            28,560 jeremias-19-vf.md
+02/11/2026  01:01            29,176 jeremias-20-vf.md
+02/11/2026  01:01            27,410 jeremias-21-vf.md
+02/11/2026  01:02            29,788 jeremias-22-vf.md
+02/11/2026  01:02            31,683 jeremias-23-vf.md
+02/11/2026  01:02            28,110 jeremias-24-vf.md
+02/11/2026  01:02            31,704 jeremias-25-vf.md
+02/11/2026  01:02            29,792 jeremias-26-vf.md
+02/11/2026  01:02            30,141 jeremias-27-vf.md
+02/11/2026  01:02            29,243 jeremias-28-vf.md
+02/11/2026  01:02            31,431 jeremias-29-vf.md
+02/11/2026  01:02            29,198 jeremias-30-vf.md
+02/11/2026  01:02            32,398 jeremias-31-vf.md
+02/11/2026  01:02            33,426 jeremias-32-vf.md
+02/11/2026  01:02            29,652 jeremias-33-vf.md
+02/11/2026  01:02            30,370 jeremias-34-vf.md
+02/11/2026  01:02            29,699 jeremias-35-vf.md
+02/11/2026  01:02            32,064 jeremias-36-vf.md
+02/11/2026  01:02            28,389 jeremias-37-vf.md
+02/11/2026  01:02            30,587 jeremias-38-vf.md
+02/11/2026  01:02            28,971 jeremias-39-vf.md
+02/11/2026  01:02            30,327 jeremias-40-vf.md
+02/11/2026  01:02            30,532 jeremias-41-vf.md
+02/11/2026  01:02            30,027 jeremias-42-vf.md
+02/11/2026  01:02            29,647 jeremias-43-vf.md
+02/11/2026  01:02            34,810 jeremias-44-vf.md
+02/11/2026  01:02            29,248 jeremias-45-vf.md
+02/11/2026  01:02            31,933 jeremias-46-vf.md
+02/11/2026  01:02            28,137 jeremias-47-vf.md
+02/11/2026  01:02            35,302 jeremias-48-vf.md
+02/11/2026  01:02            34,181 jeremias-49-vf.md
+02/11/2026  01:02            35,012 jeremias-50-vf.md
+02/11/2026  01:02            38,393 jeremias-51-vf.md
+02/11/2026  01:02            34,451 jeremias-52-vf.md
+              52 archivos      1,586,613 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\AT\25-Lamentaciones
+
+02/11/2026  01:02            32,061 lamentaciones-01-vf.md
+02/11/2026  01:02            31,288 lamentaciones-02-vf.md
+02/11/2026  01:02            30,805 lamentaciones-03-vf.md
+02/11/2026  01:02            31,085 lamentaciones-04-vf.md
+02/11/2026  01:02            29,369 lamentaciones-05-vf.md
+               5 archivos        154,608 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\AT\26-Ezequiel
+
+02/11/2026  01:02            30,985 ezequiel-01-vf.md
+02/11/2026  01:02            25,788 ezequiel-02-vf.md
+02/11/2026  01:02            28,470 ezequiel-03-vf.md
+02/11/2026  01:02            28,724 ezequiel-04-vf.md
+02/11/2026  01:02            28,473 ezequiel-05-vf.md
+02/11/2026  01:02            24,789 ezequiel-06-vf.md
+02/11/2026  01:02            26,189 ezequiel-07-vf.md
+02/11/2026  01:02            25,321 ezequiel-08-vf.md
+02/11/2026  01:02            24,286 ezequiel-09-vf.md
+02/11/2026  01:02            26,869 ezequiel-10-vf.md
+02/11/2026  01:02            26,280 ezequiel-11-vf.md
+02/11/2026  01:02            26,815 ezequiel-12-vf.md
+02/11/2026  01:02            26,629 ezequiel-13-vf.md
+02/11/2026  01:02            27,072 ezequiel-14-vf.md
+02/11/2026  01:02            23,773 ezequiel-15-vf.md
+02/11/2026  01:02            35,130 ezequiel-16-vf.md
+02/11/2026  01:02            29,350 ezequiel-17-vf.md
+02/11/2026  01:02            31,164 ezequiel-18-vf.md
+02/11/2026  01:02            27,307 ezequiel-19-vf.md
+02/11/2026  01:02            34,730 ezequiel-20-vf.md
+02/11/2026  01:02            30,286 ezequiel-21-vf.md
+02/11/2026  01:02            30,960 ezequiel-22-vf.md
+02/11/2026  01:02            33,379 ezequiel-23-vf.md
+02/11/2026  01:02            30,083 ezequiel-24-vf.md
+02/11/2026  01:02            28,421 ezequiel-25-vf.md
+02/11/2026  01:02            29,454 ezequiel-26-vf.md
+02/11/2026  01:02            31,573 ezequiel-27-vf.md
+02/11/2026  01:02            31,361 ezequiel-28-vf.md
+02/11/2026  01:02            30,427 ezequiel-29-vf.md
+02/11/2026  01:02            29,996 ezequiel-30-vf.md
+02/11/2026  01:02            28,934 ezequiel-31-vf.md
+02/11/2026  01:02            31,574 ezequiel-32-vf.md
+02/11/2026  01:02            32,112 ezequiel-33-vf.md
+02/11/2026  01:02            31,428 ezequiel-34-vf.md
+02/11/2026  01:02            27,876 ezequiel-35-vf.md
+02/11/2026  01:02            32,993 ezequiel-36-vf.md
+02/11/2026  01:02            31,501 ezequiel-37-vf.md
+02/11/2026  01:02            30,095 ezequiel-38-vf.md
+02/11/2026  01:02            30,789 ezequiel-39-vf.md
+02/11/2026  01:02            33,213 ezequiel-40-vf.md
+02/11/2026  01:02            29,358 ezequiel-41-vf.md
+02/11/2026  01:02            29,344 ezequiel-42-vf.md
+02/11/2026  01:02            30,321 ezequiel-43-vf.md
+02/11/2026  01:02            32,024 ezequiel-44-vf.md
+02/11/2026  01:02            30,407 ezequiel-45-vf.md
+02/11/2026  01:02            27,148 ezequiel-46-vf.md
+02/11/2026  01:02            27,047 ezequiel-47-vf.md
+02/11/2026  01:02            29,076 ezequiel-48-vf.md
+              48 archivos      1,409,324 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\AT\27-Daniel
+
+02/11/2026  01:02            30,571 daniel-01-vf.md
+02/11/2026  01:02            34,245 daniel-02-vf.md
+02/11/2026  01:02            31,707 daniel-03-vf.md
+02/11/2026  01:02            32,904 daniel-04-vf.md
+02/11/2026  01:02            31,034 daniel-05-vf.md
+02/11/2026  01:02            30,996 daniel-06-vf.md
+02/11/2026  01:02            31,114 daniel-07-vf.md
+02/11/2026  01:02            30,888 daniel-08-vf.md
+02/11/2026  01:02            30,892 daniel-09-vf.md
+02/11/2026  01:02            30,011 daniel-10-vf.md
+02/11/2026  01:02            33,906 daniel-11-vf.md
+02/11/2026  01:02            28,292 daniel-12-vf.md
+              12 archivos        376,560 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\AT\28-Oseas
+
+02/11/2026  01:02            27,077 oseas-01-vf.md
+02/11/2026  01:02            26,437 oseas-02-vf.md
+02/11/2026  01:02            23,345 oseas-03-vf.md
+02/11/2026  01:02            24,774 oseas-04-vf.md
+02/11/2026  01:02            24,865 oseas-05-vf.md
+02/11/2026  01:02            23,894 oseas-06-vf.md
+02/11/2026  01:02            24,381 oseas-07-vf.md
+02/11/2026  01:02            24,250 oseas-08-vf.md
+02/11/2026  01:02            24,955 oseas-09-vf.md
+02/11/2026  01:02            24,859 oseas-10-vf.md
+02/11/2026  01:02            24,663 oseas-11-vf.md
+02/11/2026  01:02            22,616 oseas-12-vf.md
+02/11/2026  01:02            22,979 oseas-13-vf.md
+02/11/2026  01:02            22,419 oseas-14-vf.md
+              14 archivos        341,514 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\AT\29-Joel
+
+02/11/2026  01:02            30,898 joel-01-vf.md
+02/11/2026  01:02            31,998 joel-02-vf.md
+02/11/2026  01:02            30,096 joel-03-vf.md
+               3 archivos         92,992 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\AT\30-Amos
+
+02/11/2026  01:02            27,803 amos-01-vf.md
+02/11/2026  01:02            27,331 amos-02-vf.md
+02/11/2026  01:02            26,830 amos-03-vf.md
+02/11/2026  01:02            27,158 amos-04-vf.md
+02/11/2026  01:02            28,680 amos-05-vf.md
+02/11/2026  01:02            26,693 amos-06-vf.md
+02/11/2026  01:02            27,408 amos-07-vf.md
+02/11/2026  01:02            26,639 amos-08-vf.md
+02/11/2026  01:02            28,181 amos-09-vf.md
+               9 archivos        246,723 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\AT\31-Abdias
+
+02/11/2026  01:02            32,524 abdias-01-vf.md
+               1 archivos         32,524 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\AT\32-Jonas
+
+02/11/2026  01:02            30,669 jonas-01-vf.md
+02/11/2026  01:02            27,873 jonas-02-vf.md
+02/11/2026  01:02            27,614 jonas-03-vf.md
+02/11/2026  01:02            29,254 jonas-04-vf.md
+               4 archivos        115,410 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\AT\33-Miqueas
+
+02/11/2026  01:02            29,359 miqueas-01-vf.md
+02/11/2026  01:02            27,368 miqueas-02-vf.md
+02/11/2026  01:02            26,737 miqueas-03-vf.md
+02/11/2026  01:02            27,428 miqueas-04-vf.md
+02/11/2026  01:02            26,996 miqueas-05-vf.md
+02/11/2026  01:02            27,494 miqueas-06-vf.md
+02/11/2026  01:02            28,234 miqueas-07-vf.md
+               7 archivos        193,616 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\AT\34-Nahum
+
+02/11/2026  01:02            29,691 nahum-01-vf.md
+02/11/2026  01:02            28,062 nahum-02-vf.md
+02/11/2026  01:02            29,003 nahum-03-vf.md
+               3 archivos         86,756 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\AT\35-Habacuc
+
+02/11/2026  01:02            28,882 habacuc-01-vf.md
+02/11/2026  01:02            28,013 habacuc-02-vf.md
+02/11/2026  01:03            27,880 habacuc-03-vf.md
+               3 archivos         84,775 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\AT\36-Sofonias
+
+02/11/2026  01:03            31,135 sofonias-01-vf.md
+02/11/2026  01:03            29,547 sofonias-02-vf.md
+02/11/2026  01:03            30,332 sofonias-03-vf.md
+               3 archivos         91,014 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\AT\37-Hageo
+
+02/11/2026  01:03            35,446 hageo-01-vf.md
+02/11/2026  01:03            35,492 hageo-02-vf.md
+               2 archivos         70,938 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\AT\38-Zacarias
+
+02/11/2026  01:03            31,996 zacarias-01-vf.md
+02/11/2026  01:03            27,647 zacarias-02-vf.md
+02/11/2026  01:03            27,673 zacarias-03-vf.md
+02/11/2026  01:03            28,665 Zacarias-04-vf.md
+02/11/2026  01:03            27,204 Zacarias-05-vf.md
+02/11/2026  01:03            28,957 Zacarias-06-vf.md
+02/11/2026  01:03            28,889 Zacarias-07-vf.md
+02/11/2026  01:03            31,235 Zacarias-08-vf.md
+02/11/2026  01:03            29,101 Zacarias-09-vf.md
+02/11/2026  01:03            28,550 Zacarias-10-vf.md
+02/11/2026  01:03            30,117 Zacarias-11-vf.md
+02/11/2026  01:03            29,748 Zacarias-12-vf.md
+02/11/2026  01:03            28,932 Zacarias-13-vf.md
+02/11/2026  01:03            32,088 Zacarias-14-vf.md
+              14 archivos        410,802 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\AT\39-Malaquias
+
+02/11/2026  01:03            29,311 malaquias-01-vf.md
+02/11/2026  01:03            27,814 malaquias-02-vf.md
+02/11/2026  01:03            27,624 malaquias-03-vf.md
+02/11/2026  01:03            25,992 malaquias-04-vf.md
+               4 archivos        110,741 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\NT\01-San-Mateo
+
+02/11/2026  01:03            29,965 san-mateo-01-vf.md
+02/11/2026  01:03            29,159 san-mateo-02-vf.md
+02/11/2026  01:03            28,306 san-mateo-03-vf.md
+02/11/2026  01:03            28,313 san-mateo-04-vf.md
+02/11/2026  01:03            31,584 san-mateo-05-vf.md
+02/11/2026  01:03            29,848 san-mateo-06-vf.md
+02/11/2026  01:03            28,411 san-mateo-07-vf.md
+02/11/2026  01:03            29,333 san-mateo-08-vf.md
+02/11/2026  01:03            30,513 san-mateo-09-vf.md
+02/11/2026  01:03            30,600 san-mateo-10-vf.md
+02/11/2026  01:03            29,009 san-mateo-11-vf.md
+02/11/2026  01:03            32,055 san-mateo-12-vf.md
+02/11/2026  01:03            32,842 san-mateo-13-vf.md
+02/11/2026  01:03            29,226 san-mateo-14-vf.md
+02/11/2026  01:03            29,945 san-mateo-15-vf.md
+02/11/2026  01:03            29,347 san-mateo-16-vf.md
+02/11/2026  01:03            29,208 san-mateo-17-vf.md
+02/11/2026  01:03            30,286 san-mateo-18-vf.md
+02/11/2026  01:03            29,882 san-mateo-19-vf.md
+02/11/2026  01:03            29,538 san-mateo-20-vf.md
+02/11/2026  01:03            31,478 san-mateo-21-vf.md
+02/11/2026  01:03            30,358 san-mateo-22-vf.md
+02/11/2026  01:03            30,976 san-mateo-23-vf.md
+02/11/2026  01:03            31,690 san-mateo-24-vf.md
+02/11/2026  01:03            31,280 san-mateo-25-vf.md
+02/11/2026  01:03            34,708 san-mateo-26-vf.md
+02/11/2026  01:03            33,491 san-mateo-27-vf.md
+02/11/2026  01:03            28,013 san-mateo-28-vf.md
+              28 archivos        849,364 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\NT\02-San-Marcos
+
+02/11/2026  01:03            31,033 san-marcos-01-vf.md
+02/11/2026  01:03            28,875 san-marcos-02-vf.md
+02/11/2026  01:03            29,140 san-marcos-03-vf.md
+02/11/2026  01:03            30,658 san-marcos-04-vf.md
+02/11/2026  01:03            30,304 san-marcos-05-vf.md
+02/11/2026  01:03            32,736 san-marcos-06-vf.md
+02/11/2026  01:03            30,137 san-marcos-07-vf.md
+02/11/2026  01:03            30,552 san-marcos-08-vf.md
+02/11/2026  01:03            32,030 san-marcos-09-vf.md
+02/11/2026  01:03            32,144 san-marcos-10-vf.md
+02/11/2026  01:03            29,859 san-marcos-11-vf.md
+02/11/2026  01:03            32,409 san-marcos-12-vf.md
+02/11/2026  01:03            31,117 san-marcos-13-vf.md
+02/11/2026  01:03            35,507 san-marcos-14-vf.md
+02/11/2026  01:03            31,782 san-marcos-15-vf.md
+02/11/2026  01:03            29,962 san-marcos-16-vf.md
+              16 archivos        498,245 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\NT\03-San-Lucas
+
+02/11/2026  01:03            37,522 san-lucas-01-vf.md
+02/11/2026  01:03            33,658 san-lucas-02-vf.md
+02/11/2026  01:03            31,252 san-lucas-03-vf.md
+02/11/2026  01:03            33,572 san-lucas-04-vf.md
+02/11/2026  01:03            32,973 san-lucas-05-vf.md
+02/11/2026  01:03            33,790 san-lucas-06-vf.md
+02/11/2026  01:03            33,512 san-lucas-07-vf.md
+02/11/2026  01:03            34,641 san-lucas-08-vf.md
+02/11/2026  01:03            35,114 san-lucas-09-vf.md
+02/11/2026  01:03            32,341 san-lucas-10-vf.md
+02/11/2026  01:03            33,335 san-lucas-11-vf.md
+02/11/2026  01:03            33,476 san-lucas-12-vf.md
+02/11/2026  01:03            30,914 san-lucas-13-vf.md
+02/11/2026  01:03            30,508 san-lucas-14-vf.md
+02/11/2026  01:03            30,472 san-lucas-15-vf.md
+02/11/2026  01:03            30,840 san-lucas-16-vf.md
+02/11/2026  01:03            30,663 san-lucas-17-vf.md
+02/11/2026  01:03            31,516 san-lucas-18-vf.md
+02/11/2026  01:03            32,768 san-lucas-19-vf.md
+02/11/2026  01:03            32,245 san-lucas-20-vf.md
+02/11/2026  01:03            31,538 san-lucas-21-vf.md
+02/11/2026  01:03            34,395 san-lucas-22-vf.md
+02/11/2026  01:03            33,157 san-lucas-23-vf.md
+02/11/2026  01:03            34,678 san-lucas-24-vf.md
+              24 archivos        788,880 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\NT\04-San-Juan
+
+02/11/2026  01:03            35,156 san-juan-01-vf.md
+02/11/2026  01:03            31,395 san-juan-02-vf.md
+02/11/2026  01:03            32,767 san-juan-03-vf.md
+02/11/2026  01:03            34,681 san-juan-04-vf.md
+02/11/2026  01:03            33,978 san-juan-05-vf.md
+02/11/2026  01:03            36,472 san-juan-06-vf.md
+02/11/2026  01:03            34,088 san-juan-07-vf.md
+02/11/2026  01:03            34,419 san-juan-08-vf.md
+02/11/2026  01:03            33,579 san-juan-09-vf.md
+02/11/2026  01:03            31,565 san-juan-10-vf.md
+02/11/2026  01:03            34,105 san-juan-11-vf.md
+02/11/2026  01:03            34,153 san-juan-12-vf.md
+02/11/2026  01:03            31,957 san-juan-13-vf.md
+02/11/2026  01:03            30,923 san-juan-14-vf.md
+02/11/2026  01:03            30,944 san-juan-15-vf.md
+02/11/2026  01:03            31,225 san-juan-16-vf.md
+02/11/2026  01:03            31,229 san-juan-17-vf.md
+02/11/2026  01:03            33,477 san-juan-18-vf.md
+02/11/2026  01:03            33,458 san-juan-19-vf.md
+02/11/2026  01:03            32,299 san-juan-20-vf.md
+02/11/2026  01:03            32,081 san-juan-21-vf.md
+              21 archivos        693,951 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\NT\05-Hechos
+
+02/11/2026  01:03            31,613 hechos-01-vf.md
+02/11/2026  01:03            32,958 hechos-02-vf.md
+02/11/2026  01:03            29,913 hechos-03-vf.md
+02/11/2026  01:03            31,810 hechos-04-vf.md
+02/11/2026  01:03            32,977 hechos-05-vf.md
+02/11/2026  01:03            29,637 hechos-06-vf.md
+02/11/2026  01:03            34,935 hechos-07-vf.md
+02/11/2026  01:03            33,025 hechos-08-vf.md
+02/11/2026  01:03            33,150 hechos-09-vf.md
+02/11/2026  01:03            33,643 hechos-10-vf.md
+02/11/2026  01:03            31,783 hechos-11-vf.md
+02/11/2026  01:03            31,280 hechos-12-vf.md
+02/11/2026  01:03            34,848 hechos-13-vf.md
+02/11/2026  01:03            31,468 hechos-14-vf.md
+02/11/2026  01:03            33,856 hechos-15-vf.md
+02/11/2026  01:03            33,849 hechos-16-vf.md
+02/11/2026  01:03            33,540 hechos-17-vf.md
+02/11/2026  01:03            32,476 hechos-18-vf.md
+02/11/2026  01:03            34,409 hechos-19-vf.md
+02/11/2026  01:03            32,731 hechos-20-vf.md
+02/11/2026  01:03            35,052 hechos-21-vf.md
+02/11/2026  01:03            31,878 hechos-22-vf.md
+02/11/2026  01:03            33,265 hechos-23-vf.md
+02/11/2026  01:03            32,248 hechos-24-vf.md
+02/11/2026  01:03            32,062 hechos-25-vf.md
+02/11/2026  01:03            32,841 hechos-26-vf.md
+02/11/2026  01:03            34,301 hechos-27-vf.md
+02/11/2026  01:03            34,461 hechos-28-vf.md
+              28 archivos        920,009 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\NT\05-Romanos
+
+02/11/2026  01:04            31,168 romanos-01-vf.md
+02/11/2026  01:04            27,607 romanos-02-vf.md
+02/11/2026  01:04            27,690 romanos-03-vf.md
+02/11/2026  01:04            27,596 romanos-04-vf.md
+02/11/2026  01:04            27,435 romanos-05-vf.md
+02/11/2026  01:04            27,111 romanos-06-vf.md
+02/11/2026  01:04            27,372 romanos-07-vf.md
+02/11/2026  01:04            29,519 romanos-08-vf.md
+02/11/2026  01:04            28,224 romanos-09-vf.md
+02/11/2026  01:04            26,779 romanos-10-vf.md
+02/11/2026  01:04            29,152 romanos-11-vf.md
+02/11/2026  01:04            27,378 romanos-12-vf.md
+02/11/2026  01:04            26,120 romanos-13-vf.md
+02/11/2026  01:04            27,452 romanos-14-vf.md
+02/11/2026  01:04            28,862 romanos-15-vf.md
+02/11/2026  01:04            27,975 romanos-16-vf.md
+              16 archivos        447,440 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\NT\07-1-Corintios
+
+02/11/2026  01:04            30,448 1-corintios-01-vf.md
+02/11/2026  01:04            27,383 1-corintios-02-vf.md
+02/11/2026  01:04            28,481 1-corintios-03-vf.md
+02/11/2026  01:04            28,119 1-corintios-04-vf.md
+02/11/2026  01:04            27,513 1-corintios-05-vf.md
+02/11/2026  01:04            28,232 1-corintios-06-vf.md
+02/11/2026  01:04            30,651 1-corintios-07-vf.md
+02/11/2026  01:04            27,034 1-corintios-08-vf.md
+02/11/2026  01:04            29,271 1-corintios-09-vf.md
+02/11/2026  01:04            29,254 1-corintios-10-vf.md
+02/11/2026  01:04            30,459 1-corintios-11-vf.md
+02/11/2026  01:04            29,192 1-corintios-12-vf.md
+02/11/2026  01:04            27,137 1-corintios-13-vf.md
+02/11/2026  01:04            31,142 1-corintios-14-vf.md
+02/11/2026  01:04            32,514 1-corintios-15-vf.md
+02/11/2026  01:04            28,473 1-corintios-16-vf.md
+              16 archivos        465,303 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\NT\08-2-Corintios
+
+02/11/2026  01:04            30,563 2-corintios-01-vf.md
+02/11/2026  01:04            27,635 2-corintios-02-vf.md
+02/11/2026  01:04            28,296 2-corintios-03-vf.md
+02/11/2026  01:04            27,850 2-corintios-04-vf.md
+02/11/2026  01:04            27,496 2-corintios-05-vf.md
+02/11/2026  01:04            27,130 2-corintios-06-vf.md
+02/11/2026  01:04            28,145 2-corintios-07-vf.md
+02/11/2026  01:04            28,729 2-corintios-08-vf.md
+02/11/2026  01:04            27,207 2-corintios-09-vf.md
+02/11/2026  01:04            28,224 2-corintios-10-vf.md
+02/11/2026  01:04            29,326 2-corintios-11-vf.md
+02/11/2026  01:04            29,122 2-corintios-12-vf.md
+02/11/2026  01:04            27,478 2-corintios-13-vf.md
+              13 archivos        367,201 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\NT\09-Galatas
+
+02/11/2026  01:04            28,683 galatas-01-vf.md
+02/11/2026  01:04            28,428 galatas-02-vf.md
+02/11/2026  01:04            28,111 galatas-03-vf.md
+02/11/2026  01:04            28,246 galatas-04-vf.md
+02/11/2026  01:04            27,315 galatas-05-vf.md
+02/11/2026  01:04            26,585 galatas-06-vf.md
+               6 archivos        167,368 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\NT\10-Efesios
+
+02/11/2026  01:04            30,234 efesios-01-vf.md
+02/11/2026  01:04            28,754 efesios-02-vf.md
+02/11/2026  01:04            28,108 efesios-03-vf.md
+02/11/2026  01:04            29,242 efesios-04-vf.md
+02/11/2026  01:04            28,261 efesios-05-vf.md
+02/11/2026  01:04            28,199 efesios-06-vf.md
+               6 archivos        172,798 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\NT\11-Filipenses
+
+02/11/2026  01:04            30,971 filipenses-01-vf.md
+02/11/2026  01:04            29,607 filipenses-02-vf.md
+02/11/2026  01:04            28,863 filipenses-03-vf.md
+02/11/2026  01:04            28,310 filipenses-04-vf.md
+               4 archivos        117,751 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\NT\12-Colosenses
+
+02/11/2026  01:04            29,284 colosenses-01-vf.md
+02/11/2026  01:04            27,204 colosenses-02-vf.md
+02/11/2026  01:04            26,894 colosenses-03-vf.md
+02/11/2026  01:04            26,094 colosenses-04-vf.md
+               4 archivos        109,476 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\NT\13-1-Tesalonicenses
+
+02/11/2026  01:04            28,009 1-tesalonicenses-01-vf.md
+02/11/2026  01:04            27,958 1-tesalonicenses-02-vf.md
+02/11/2026  01:04            26,518 1-tesalonicenses-03-vf.md
+02/11/2026  01:04            27,338 1-tesalonicenses-04-vf.md
+02/11/2026  01:04            27,457 1-tesalonicenses-05-vf.md
+               5 archivos        137,280 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\NT\14-2-Tesalonicenses
+
+02/11/2026  01:04            29,473 2-tesalonicenses-01-vf.md
+02/11/2026  01:04            28,739 2-tesalonicenses-02-vf.md
+02/11/2026  01:04            27,999 2-tesalonicenses-03-vf.md
+               3 archivos         86,211 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\NT\15-1-Timoteo
+
+02/11/2026  01:04            28,373 1-timoteo-01-vf.md
+02/11/2026  01:04            24,908 1-timoteo-02-vf.md
+02/11/2026  01:04            24,635 1-timoteo-03-vf.md
+02/11/2026  01:04            24,766 1-timoteo-04-vf.md
+02/11/2026  01:04            25,500 1-timoteo-05-vf.md
+02/11/2026  01:04            25,644 1-timoteo-06-vf.md
+               6 archivos        153,826 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\NT\16-2-Timoteo
+
+02/11/2026  01:04            27,541 2_timoteo-01-vf.md
+02/11/2026  01:04            26,887 2_timoteo-02-vf.md
+02/11/2026  01:04            25,824 2_timoteo-03-vf.md
+02/11/2026  01:04            26,699 2_timoteo-04-vf.md
+               4 archivos        106,951 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\NT\17-Tito
+
+02/11/2026  01:04            28,750 tito-01-vf.md
+02/11/2026  01:04            27,656 tito-02-vf.md
+02/11/2026  01:04            28,269 tito-03-vf.md
+               3 archivos         84,675 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\NT\18-Filemon
+
+02/11/2026  01:04            30,973 filemon-01-vf.md
+               1 archivos         30,973 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\NT\19-Hebreos
+
+02/11/2026  01:04            29,117 hebreos-01-vf.md
+02/11/2026  01:04            27,987 hebreos-02-vf.md
+02/11/2026  01:04            27,353 hebreos-03-vf.md
+02/11/2026  01:04            28,200 hebreos-04-vf.md
+02/11/2026  01:04            28,096 hebreos-05-vf.md
+02/11/2026  01:04            28,068 hebreos-06-vf.md
+02/11/2026  01:04            29,784 hebreos-07-vf.md
+02/11/2026  01:04            28,314 hebreos-08-vf.md
+02/11/2026  01:04            30,079 hebreos-09-vf.md
+02/11/2026  01:04            30,208 hebreos-10-vf.md
+02/11/2026  01:04            32,026 hebreos-11-vf.md
+02/11/2026  01:04            30,864 hebreos-12-vf.md
+02/11/2026  01:04            29,569 hebreos-13-vf.md
+              13 archivos        379,665 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\NT\20-Santiago
+
+02/11/2026  01:04            30,937 santiago-01-vf.md
+02/11/2026  01:04            28,306 santiago-02-vf.md
+02/11/2026  01:04            27,263 santiago-03-vf.md
+02/11/2026  01:04            26,519 santiago-04-vf.md
+02/11/2026  01:04            27,999 santiago-05-vf.md
+               5 archivos        141,024 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\NT\21-1-Pedro
+
+02/11/2026  01:04            30,543 1-pedro-01-vf.md
+02/11/2026  01:04            28,964 1-pedro-02-vf.md
+02/11/2026  01:04            29,115 1-pedro-03-vf.md
+02/11/2026  01:04            27,950 1-pedro-04-vf.md
+02/11/2026  01:04            27,593 1-pedro-05-vf.md
+               5 archivos        144,165 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\NT\22-2-Pedro
+
+02/11/2026  01:04            29,660 2-pedro-01-vf.md
+02/11/2026  01:04            27,953 2-pedro-02-vf.md
+02/11/2026  01:04            27,687 2-pedro-03-vf.md
+               3 archivos         85,300 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\NT\23-1-Juan
+
+02/11/2026  01:04            29,144 1-juan-01-vf.md
+02/11/2026  01:04            30,510 1-juan-02-vf.md
+02/11/2026  01:04            29,197 1-juan-03-vf.md
+02/11/2026  01:04            30,241 1-juan-04-vf.md
+02/11/2026  01:04            29,747 1-juan-05-vf.md
+               5 archivos        148,839 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\NT\24-2-Juan
+
+02/11/2026  01:04            33,412 2-juan-01-vf.md
+               1 archivos         33,412 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\NT\25-3-Juan
+
+02/11/2026  01:04            30,721 3-juan-01-vf.md
+               1 archivos         30,721 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\NT\26-San-Judas
+
+02/11/2026  01:04            30,766 san-judas-01-vf.md
+               1 archivos         30,766 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\por-capitulo\NT\27-Apocalipsis
+
+02/11/2026  01:04            27,830 apocalipsis-01-vf.md
+02/11/2026  01:04            27,527 apocalipsis-02-vf.md
+02/11/2026  01:04            26,542 apocalipsis-03-vf.md
+02/11/2026  01:04            25,387 apocalipsis-04-vf.md
+02/11/2026  01:04            26,770 apocalipsis-05-vf.md
+02/11/2026  01:04            26,417 apocalipsis-06-vf.md
+02/11/2026  01:04            26,301 apocalipsis-07-vf.md
+02/11/2026  01:04            26,016 apocalipsis-08-vf.md
+02/11/2026  01:04            26,833 apocalipsis-09-vf.md
+02/11/2026  01:04            25,698 apocalipsis-10-vf.md
+02/11/2026  01:04            26,523 apocalipsis-11-vf.md
+02/11/2026  01:04            26,734 apocalipsis-12-vf.md
+02/11/2026  01:04            26,810 apocalipsis-13-vf.md
+02/11/2026  01:04            27,608 apocalipsis-14-vf.md
+02/11/2026  01:04            25,137 apocalipsis-15-vf.md
+02/11/2026  01:04            26,580 apocalipsis-16-vf.md
+02/11/2026  01:04            27,013 apocalipsis-17-vf.md
+02/11/2026  01:04            27,850 apocalipsis-18-vf.md
+02/11/2026  01:05            27,164 apocalipsis-19-vf.md
+02/11/2026  01:05            26,834 apocalipsis-20-vf.md
+02/11/2026  01:05            28,249 apocalipsis-21-vf.md
+02/11/2026  01:05            27,768 apocalipsis-22-vf.md
+              22 archivos        589,591 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\tematicos\AT
+
+02/11/2026  01:12            32,165 01-pentateuco-at-vf.md
+02/11/2026  01:12            29,530 02-historicos-at-vf.md
+02/11/2026  01:12            26,988 03-poeticos-at-vf.md
+02/11/2026  01:12            27,493 04-profetas-mayores-at-vf.md
+02/11/2026  01:12            28,384 05-profetas-menores-at-vf.md
+               5 archivos        144,560 bytes
+
+ Directorio de C:\Users\asus\OneDrive\Escritorio\BACKUP\MKD\tematicos\NT
+
+02/11/2026  01:12            26,704 01-evangelios-nt-vf.md
+02/11/2026  01:12            26,072 02-hechos-nt-vf.md
+02/11/2026  01:13            28,274 03-cartas-paulinas-nt-vf.md
+02/11/2026  01:13            27,840 04-cartas-universales-nt-vf.md
+02/11/2026  01:13            31,473 05-apocalipsis-nt-vf.md
+               5 archivos        140,363 bytes
+
+     Total de archivos en la lista:
+            1427 archivos     45,987,268 bytes
+               0 dirs  15,705,550,848 bytes libres

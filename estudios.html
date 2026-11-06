@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="es-BO">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Estudios Bíblicos — por libro, capítulo y tema | Estudios Bíblicos RVR1960</title>
+<meta name="description" content="Explora los 1427 estudios bíblicos del portal: libros completos, capítulo por capítulo, estudios temáticos, ayudas bíblicas, parábolas y bienaventuranzas, para leer en línea o descargar.">
+<link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+
+<div id="cabecera"></div>
+
+<header class="heroe" style="padding:50px 0 76px;">
+  <div class="contenedor">
+    <span class="eyebrow">Catálogo completo</span>
+    <h1 style="max-width:20ch;">Estudios Bíblicos</h1>
+    <p class="intro">Elige un libro para ver todos sus capítulos, o revisa los estudios organizados por tema, por ayuda bíblica, por parábola o por bienaventuranza. Cada estudio se lee en línea, con tamaño de letra ajustable e índice de contenido, o se puede descargar como archivo de texto (.md) o imprimir.</p>
+  </div>
+</header>
+
+<section class="seccion-clara" id="buscador">
+  <div class="contenedor-angosto">
+    <div class="buscador-caja">
+      <input type="search" id="campo-busqueda" placeholder="Buscar por libro, capítulo o palabra clave…" aria-label="Buscar estudio bíblico">
+    </div>
+    <div id="resultados-busqueda" class="buscador-resultados"></div>
+  </div>
+</section>
+
+<div class="divisor-tejido"></div>
+
+<section class="seccion-clara" id="libros">
+  <div class="contenedor">
+    <div class="encabezado-seccion">
+      <span class="eyebrow">Libros completos · 66 estudios · Por capítulo · 1189 estudios</span>
+      <h2>Por libro completo y por capítulo</h2>
+      <p>Los 66 libros de la Biblia (39 del Antiguo Testamento y 27 del Nuevo Testamento) tienen cada uno su propio estudio bíblico completo. Además, los 1189 estudios por capítulo están agrupados aquí mismo en esos dos grandes bloques — Antiguo Testamento y Nuevo Testamento — y, dentro de cada bloque, libro por libro: toca un libro para desplegar sus capítulos. Los capítulos con estudio publicado se muestran resaltados; los que aún se están preparando se marcan como "próximamente".</p>
+    </div>
+    <div class="filtros">
+      <button class="filtro-btn activo" data-testamento="todos">Todos (66 libros)</button>
+      <button class="filtro-btn" data-testamento="Antiguo Testamento">Antiguo Testamento (39)</button>
+      <button class="filtro-btn" data-testamento="Nuevo Testamento">Nuevo Testamento (27)</button>
+    </div>
+    <div class="lista-libros" id="lista-libros"></div>
+  </div>
+</section>
+
+<div class="divisor-tejido"></div>
+
+<section class="seccion-clara" id="tematicos">
+  <div class="contenedor">
+    <div class="encabezado-seccion">
+      <span class="eyebrow">Estudios bíblicos temáticos · 10 estudios</span>
+      <h2>Por grupo de libros</h2>
+      <p>Para quien quiere ver el panorama general antes de entrar en el detalle: Pentateuco, libros históricos, poéticos, profetas, evangelios y cartas.</p>
+    </div>
+    <div class="rejilla-3" id="lista-tematicos"></div>
+  </div>
+</section>
+
+<div class="divisor-tejido"></div>
+
+<section class="seccion-clara" id="parabolas">
+  <div class="contenedor">
+    <div class="encabezado-seccion">
+      <span class="eyebrow">Estudios bíblicos de las parábolas · 52 estudios</span>
+      <h2>Las parábolas de Jesús</h2>
+      <p>Estudio bíblico de cada una de las 52 parábolas de Jesús registradas en los evangelios.</p>
+    </div>
+    <div class="buscador-resultados" id="lista-parabolas"></div>
+  </div>
+</section>
+
+<div class="divisor-tejido"></div>
+
+<section class="seccion-clara" id="bienaventuranzas">
+  <div class="contenedor">
+    <div class="encabezado-seccion">
+      <span class="eyebrow">Estudios Bienaventuranzas · 9 estudios</span>
+      <h2>Las bienaventuranzas</h2>
+      <p>Estudio bíblico de cada una de las 9 bienaventuranzas del Sermón del Monte.</p>
+    </div>
+    <div class="buscador-resultados" id="lista-bienaventuranzas"></div>
+  </div>
+</section>
+
+<div class="divisor-tejido"></div>
+
+<section class="seccion-clara" id="ayudas">
+  <div class="contenedor">
+    <div class="encabezado-seccion">
+      <span class="eyebrow">Recursos adicionales</span>
+      <h2>Ayudas bíblicas</h2>
+      <p>33 ayudas bíblicas solicitadas directamente por las congregaciones y 68 ayudas bíblicas para el servicio y el liderazgo en la congregación.</p>
+    </div>
+    <h3 style="margin:0 0 8px;">Ayudas Bíblicas Solicitadas · 33 estudios</h3>
+    <div class="buscador-resultados" id="lista-ayudas-solicitadas"></div>
+    <h3 style="margin:32px 0 8px;">Ayudas Bíblicas · 68 estudios</h3>
+    <div class="buscador-resultados" id="lista-ayudas-biblicas"></div>
+  </div>
+</section>
+
+<section class="seccion-oscura centrado">
+  <div class="contenedor-angosto">
+    <span class="eyebrow" style="color:#C89B3C;">¿No encuentras un estudio?</span>
+    <h2>Aún estamos preparando todo el catálogo</h2>
+    <p style="color:#DCCFAF;">Este portal crece cada semana. Suscríbete al boletín para recibir un aviso apenas se publique el estudio que buscas, o escríbenos directamente.</p>
+    <div class="heroe-acciones" style="justify-content:center;">
+      <a href="comunidad.html#boletin" class="boton boton-claro">Suscribirme al boletín</a>
+      <a href="contacto.html" class="boton boton-contorno" style="border-color:#EFE6D3; color:#EFE6D3;">Escribir al ministerio</a>
+    </div>
+  </div>
+</section>
+
+<div id="pie"></div>
+
+<script src="js/config.js"></script>
+<script src="js/catalogo.js"></script>
+<script src="js/buscador.js"></script>
+<script src="js/estudios.js"></script>
+<script src="js/componentes.js"></script>
+<script src="js/main.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    iniciarBuscador('campo-busqueda', 'resultados-busqueda');
+  });
+</script>
+</body>
+</html>

@@ -1,0 +1,20 @@
+CARPETA DE LOS ESTUDIOS EN MARKDOWN (.md)
+
+Copia aqui, tal cual, el CONTENIDO de tu carpeta MKD, de modo que queden estas carpetas:
+
+  md/libro-completo/
+  md/por-capitulo/AT/01-Genesis/genesis-01-vf.md ...
+  md/por-capitulo/NT/...
+  md/tematicos/AT/ y md/tematicos/NT/
+  md/parabolas/
+  md/bienaventuranzas/
+  md/ayudas-especiales/
+  md/ayudas-espirituales/
+
+No cambies los nombres de carpetas ni de archivos: el catalogo (js/catalogo.js) ya
+apunta a cada ruta segun el indice indexmd.txt.
+
+Despues de copiar los archivos, ejecuta una vez "actualizar_catalogo.bat": lee los
+titulos reales de cada estudio y los usa en las listas y en el buscador.
+
+Si prefieres guardar los .md en otro lugar, cambia RUTA_BASE_MD en js/config.js.

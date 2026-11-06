@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="es-BO">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contacto | Estudios Bíblicos RVR1960</title>
+<meta name="description" content="Escríbenos tus dudas, peticiones de oración o comentarios. Encuéntranos también en redes sociales.">
+<link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+
+<div id="cabecera"></div>
+
+<header class="heroe" style="padding:50px 0 76px;">
+  <div class="contenedor">
+    <span class="eyebrow">Estamos para servirte</span>
+    <h1 style="max-width:20ch;">Contáctanos</h1>
+    <p class="intro">¿Tienes una duda bíblica, una petición de oración o quieres apoyar el ministerio? Escríbenos.</p>
+  </div>
+</header>
+
+<section class="seccion-clara">
+  <div class="contenedor rejilla-2">
+    <div>
+      <h2>Envíanos un mensaje</h2>
+      <form class="formulario" id="form-contacto" action="https://formspree.io/f/TU_ID_DE_FORMSPREE" method="POST">
+        <div class="campo">
+          <label for="c-nombre">Nombre completo</label>
+          <input type="text" id="c-nombre" name="nombre" required>
+        </div>
+        <div class="campo">
+          <label for="c-correo">Correo electrónico</label>
+          <input type="email" id="c-correo" name="correo" required>
+        </div>
+        <div class="campo">
+          <label for="c-motivo">Motivo</label>
+          <select id="c-motivo" name="motivo">
+            <option>Duda bíblica</option>
+            <option>Petición de oración</option>
+            <option>Quiero colaborar / ofrendar</option>
+            <option>Reportar un error en el sitio</option>
+            <option>Otro</option>
+          </select>
+        </div>
+        <div class="campo">
+          <label for="c-mensaje">Mensaje</label>
+          <textarea id="c-mensaje" name="mensaje" required></textarea>
+        </div>
+        <button type="submit" class="boton boton-primario" style="justify-self:start;">Enviar mensaje</button>
+        <p class="nota-formulario">Nota técnica: reemplaza "TU_ID_DE_FORMSPREE" por el ID real de una cuenta gratuita en formspree.io para que los mensajes lleguen a un correo real (ver README.md).</p>
+      </form>
+    </div>
+    <div>
+      <h2>Otras formas de escribirnos</h2>
+      <div class="tarjeta" style="margin-bottom:16px;">
+        <h3 class="mt-0">WhatsApp</h3>
+        <p>La forma más rápida de comunicarte con el equipo del ministerio.</p>
+        <a class="boton boton-contorno" id="enlace-whatsapp" href="#" target="_blank" rel="noopener">Escribir por WhatsApp</a>
+      </div>
+      <div class="tarjeta">
+        <h3 class="mt-0">Redes sociales</h3>
+        <p>Síguenos para no perderte los nuevos estudios y devocionales.</p>
+        <div class="redes" id="redes-contacto"></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div id="pie"></div>
+
+<script src="js/componentes.js"></script>
+<script src="js/main.js"></script>
+<script>
+  document.getElementById('enlace-whatsapp').href = RUTA_WHATSAPP;
+  document.getElementById('redes-contacto').innerHTML = `
+    <a class="red-btn" href="${RUTA_FACEBOOK}" target="_blank" rel="noopener">Facebook</a>
+    <a class="red-btn" href="${RUTA_YOUTUBE}" target="_blank" rel="noopener">YouTube</a>
+    <a class="red-btn" href="${RUTA_INSTAGRAM}" target="_blank" rel="noopener">Instagram</a>
+  `;
+</script>
+</body>
+</html>

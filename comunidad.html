@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="es-BO">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Comunidad — Devocionales, oración y boletín | Estudios Bíblicos RVR1960</title>
+<meta name="description" content="Devocionales diarios, muro de peticiones de oración, boletín semanal por correo y formas de apoyar el ministerio de evangelización rural.">
+<link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+
+<div id="cabecera"></div>
+
+<header class="heroe" style="padding:50px 0 76px;">
+  <div class="contenedor">
+    <span class="eyebrow">Comunidad y crecimiento</span>
+    <h1 style="max-width:22ch;">Caminemos juntos en la fe</h1>
+    <p class="intro">No solo leemos la Palabra: la vivimos en comunidad, oramos unos por otros y crecemos día a día.</p>
+  </div>
+</header>
+
+<!-- Devocional diario -->
+<section class="seccion-clara" id="devocional">
+  <div class="contenedor">
+    <div class="encabezado-seccion">
+      <span class="eyebrow">Cada día</span>
+      <h2>Devocional diario</h2>
+      <p>Una lectura corta y una aplicación práctica para empezar el día con la Palabra.</p>
+    </div>
+    <div class="tarjeta" style="max-width:640px;">
+      <span class="eyebrow" id="fecha-devocional">Hoy</span>
+      <h3>Espacio reservado para el devocional del día</h3>
+      <p>Aquí se publicará cada mañana una lectura breve (8–12 líneas) con un versículo, una reflexión y una aplicación para el trabajo y la familia. Se puede alimentar desde un archivo de texto o desde la misma app de escritorio que genera los estudios en PDF.</p>
+      <span class="pendiente-nota">Próximamente</span>
+    </div>
+  </div>
+</section>
+
+<div class="divisor-tejido"></div>
+
+<!-- Muro de oración -->
+<section class="seccion-clara" id="oracion">
+  <div class="contenedor">
+    <div class="encabezado-seccion">
+      <span class="eyebrow">Muro de oración</span>
+      <h2>Deja tu petición de oración</h2>
+      <p>Tu petición será leída por el equipo del ministerio. Puedes dejar solo tu nombre de pila o escribir "anónimo".</p>
+    </div>
+    <form class="formulario" id="form-oracion">
+      <div class="campo">
+        <label for="nombre-oracion">Tu nombre (o "anónimo")</label>
+        <input type="text" id="nombre-oracion" required maxlength="60">
+      </div>
+      <div class="campo">
+        <label for="peticion-texto">Tu petición de oración</label>
+        <textarea id="peticion-texto" required maxlength="400"></textarea>
+      </div>
+      <button type="submit" class="boton boton-primario" style="justify-self:start;">Enviar petición</button>
+      <p class="nota-formulario">Nota técnica para quien administre el sitio: este formulario guarda la petición solo en este navegador como demostración. Para que las peticiones se compartan de verdad entre todos los visitantes, hay que conectarlo a un servicio gratuito como Formspree o una base de datos simple (ver README.md del proyecto).</p>
+    </form>
+    <div class="muro-oracion" id="muro-oracion"></div>
+  </div>
+</section>
+
+<div class="divisor-tejido"></div>
+
+<!-- Boletín -->
+<section class="seccion-oscura" id="boletin">
+  <div class="contenedor-angosto centrado">
+    <span class="eyebrow" style="color:#C89B3C;">Boletín semanal</span>
+    <h2>Recibe los nuevos estudios en tu correo</h2>
+    <p style="color:#DCCFAF;">Cada semana enviamos un correo con los estudios bíblicos recién publicados. Sin costo, y puedes darte de baja cuando quieras.</p>
+    <form class="formulario" style="margin:0 auto; text-align:left;">
+      <div class="campo">
+        <label for="correo-boletin" style="color:#F8F3E7;">Correo electrónico</label>
+        <input type="email" id="correo-boletin" required placeholder="tu@correo.com">
+      </div>
+      <button type="submit" class="boton boton-claro" style="justify-self:start;">Suscribirme</button>
+      <p class="nota-formulario" style="color:#DCCFAF;">Nota técnica: conectar este formulario a un servicio gratuito de boletines como Mailchimp (plan gratuito) o Buttondown para que los correos se guarden de verdad.</p>
+    </form>
+  </div>
+</section>
+
+<div class="divisor-tejido"></div>
+
+<!-- Ofrendas -->
+<section class="seccion-clara" id="ofrendas">
+  <div class="contenedor rejilla-2">
+    <div class="tarjeta">
+      <span class="badge-ofrenda">Ofrendas</span>
+      <h3 class="mt-0" style="margin-top:14px;">Apoya con una ofrenda en especie o en efectivo</h3>
+      <p>Si Dios ha puesto en tu corazón apoyar este ministerio, puedes hacerlo con una ofrenda en especie (materiales, alimentos, equipo) o en efectivo. Escríbenos para coordinar la forma más conveniente para ti.</p>
+      <a href="contacto.html" class="boton boton-primario">Contactar al ministerio</a>
+    </div>
+    <div class="tarjeta">
+      <span class="badge-ofrenda">Proyecto de actualización</span>
+      <h3 class="mt-0" style="margin-top:14px;">Ayúdanos a completar el catálogo de estudios</h3>
+      <p>Buscamos recursos económicos y financieros para terminar de preparar y publicar el catálogo completo de estudios bíblicos, capítulo por capítulo, de toda la Biblia.</p>
+      <a href="contacto.html" class="boton boton-contorno">Quiero colaborar</a>
+    </div>
+  </div>
+</section>
+
+<div id="pie"></div>
+
+<script src="js/componentes.js"></script>
+<script src="js/main.js"></script>
+<script>
+  document.getElementById('fecha-devocional').textContent =
+    new Date().toLocaleDateString('es-BO', { weekday: 'long', day: 'numeric', month: 'long' });
+
+  // Demostración local del muro de oración (ver nota en el formulario).
+  const CLAVE_ORACION = 'peticiones_oracion_demo';
+
+  function cargarPeticiones() {
+    const guardadas = JSON.parse(localStorage.getItem(CLAVE_ORACION) || '[]');
+    const cont = document.getElementById('muro-oracion');
+    cont.innerHTML = guardadas.slice().reverse().map(p => `
+      <div class="peticion">
+        <div class="quien">${p.nombre}</div>
+        <p style="margin:6px 0 0;">${p.texto}</p>
+      </div>
+    `).join('') || '<p class="nota-formulario">Todavía no hay peticiones. Sé el primero en escribir una.</p>';
+  }
+
+  document.getElementById('form-oracion').addEventListener('submit', e => {
+    e.preventDefault();
+    const nombre = document.getElementById('nombre-oracion').value.trim() || 'Anónimo';
+    const texto = document.getElementById('peticion-texto').value.trim();
+    if (!texto) return;
+    const guardadas = JSON.parse(localStorage.getItem(CLAVE_ORACION) || '[]');
+    guardadas.push({ nombre, texto });
+    localStorage.setItem(CLAVE_ORACION, JSON.stringify(guardadas));
+    e.target.reset();
+    cargarPeticiones();
+  });
+
+  cargarPeticiones();
+</script>
+</body>
+</html>
